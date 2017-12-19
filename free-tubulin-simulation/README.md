@@ -33,5 +33,5 @@ Source files necessary to start simulations of straight GTP-tubulin (PDB IDs: 3J
  
  **Production**:
   1. Extract the last frame from the heating simulation at 300K: `trjconv -f heating_NPT_300K.xtc -s heating_NPT_300K.tpr -o LAST_6000ps_3jat_heating_300K.pdb -pbc mol -ur compact -b 6000 -e 6000`
-  2. Trim the structure to remove all waters, KCL ions, and hydrogens. The resulting structure should contain only alpha- and beta-chains and 2 GTP molecules (GDP and GTP, if GDP-tubulin is simulated)
+  2. Trim the structure to remove all waters, KCL ions, and hydrogens. The resulting structure should contain only alpha- and beta-chains and 2 GTP + 2 Mg2+ (GDP and GTP + Mg2+, if GDP-tubulin is simulated)
   3. Follow the procedure in **Preparation** to set up the production simulation
