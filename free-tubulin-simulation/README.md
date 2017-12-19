@@ -19,3 +19,18 @@ Source files necessary to start simulations of straight GTP-tubulin (PDB IDs: 3J
   * `em2.mdp` - config file for initial energy minimization
   * `pr_NVT_300K.mdp` - config file for equilibration with position restraints in NVT ensemble at 300K
   * `run_NPT_300K.mdp` - config file for 1 microsecond production run
+
+# Setting up the simulation
+
+**Preparation**:
+ 1. Create topology files using `create_top_CP_prep.bash` and the starting structure
+ 2. Larger simulation box: `editconf -f gmx_structure.pdb -n gmx_structure_box.pdb -bt dodecahedron -d 1.5`
+ 3. Add waters: `genbox -cp gmx_structure_box.pdb -cs spc216.gro -o gmx_structure_wb.pdb -p gmx_structure.top`
+ 4. Create a dummy `*.tpr` to add ions later: `grompp -f empty_file.mdp -c gmx_structure_wb.pdb -p gmx_structure.top -o dummy.tpr`
+ 5. Add 150mM KCL using the dummy file: `genion -s dummy.tpr -o gmx_structure_150mM.pdb -p gmx_structure.top -pname K -nname CL -conc 0.15 -neutral`
+ 6. Create `*.tpr` for energy minimization: `grompp -f em.mdp -c gmx_structure_150mM.pdb -p gmx_structure.top -o em.tpr`
+ 7. Once the minimization is done, proceed to equilibration with position restraints and heating simulations
+ 
+ **Production**:
+  1. Extract the last frame from the heating simulation at 300K: `LAST_6000ps_3jat_heating_300K.pdb`
+  2. Follow the procedure in **Preparation** to set up the production simulation
