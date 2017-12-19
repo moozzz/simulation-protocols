@@ -1,6 +1,6 @@
 # Free tubulin simulation
 
-Source files necessary to start simulations of straight GTP-tubulin (PDB IDs: 3JAT) using CHARMM22* force field and GROMACS 4.6. The force field was modified to include GTP/GDP parameters adapted from CHARMM27. Simulations of other tubulin dimers were performed using the same protocol.
+Source files necessary to start simulations of straight GTP-tubulin (PDB IDs: 3JAT) using CHARMM22* force field (Piana et al., 2011. Biophys J., 100(9):L47-9) and GROMACS 4.6. The force field was modified to include GTP/GDP parameters adapted from CHARMM27. Simulations of other tubulin dimers were performed using the same protocol.
 
 # Overview of files
 
