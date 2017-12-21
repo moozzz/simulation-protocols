@@ -11,7 +11,7 @@ Source files necessary to start simulations of straight GTP-tubulin (PDB IDs: 3J
   * `create_top_CP_prep.bash` - bash script to create topology files for preparation
   * `em.mdp` - config file for initial energy minimization
   * `pr_pre_NVT_100K.mdp` - config file for subsequent equilibration with position restraints in NVT ensemble
-  * **heating_NPT_100K-300K** - set of config files for step-wise heating from 100K to 300K in NPT ensemble
+  * `heating_NPT_100K-300K/` - set of config files for step-wise heating from 100K to 300K in NPT ensemble
 
 * **input_2_production**:
   * `LAST_6000ps_3jat_heating_300K.pdb` - starting structure for production runs (the last frame from preparation)
