@@ -1,2 +1,2 @@
 # Simulation protocols
-Simulation protocols used in my simulations
+Simulation protocols used in my publications
