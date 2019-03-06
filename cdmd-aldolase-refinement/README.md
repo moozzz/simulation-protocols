@@ -6,24 +6,24 @@ For further details, please see the original publication: Igaev et al., 2019. eL
 
 # Overview of files
 
-* **charmm22star_dev1.3.ff/** - modified CHARMM22* force field (includes parameters and hydrogen database entries for GTP/GDP and HEME)
+* **charmm22star_dev1.3.ff/** - modified CHARMM22* force field (includes parameters and hydrogen database entries for GTP/GDP and HEME).
 
 * `6ald_fixed.pdb` - starting structure fixed as described in the original paper (Herzik et al., 2017). This structure is close to the target state because this is a tutorial and we want to keeps things simple. But feel free to try more distant starting structures as described in the paper.
 
-* `create_top.bash` - bash script to create topology files
+* `create_top.bash` - bash script to create topology files.
 
 * **MDP/** - folder containing GROMACS config files:
-  * `em.mdp` - config file for initial energy minimization
-  * `pr_pre_NVT_100K.mdp` - config file for equilibration with position restraints in NVT ensemble
-  * `fit_NPT_100K_eq.mdp` - config file for equilibration without position restraints in NPT ensemble
-  * `fit_NPT_100K_protocol_HALF1.mdp` - config file for half-map refinement in NPT ensemble
-  * `fit_NPT_100K_protocol_FULL.mdp` - config file for final short full-map refinement in NPT ensemble
+  * `em.mdp` - config file for initial energy minimization,
+  * `pr_pre_NVT_100K.mdp` - config file for equilibration with position restraints in NVT ensemble,
+  * `fit_NPT_100K_eq.mdp` - config file for equilibration without position restraints in NPT ensemble,
+  * `fit_NPT_100K_protocol_HALF1.mdp` - config file for half-map refinement in NPT ensemble,
+  * `fit_NPT_100K_protocol_FULL.mdp` - config file for final short full-map refinement in NPT ensemble.
 
-* `REF_pdb_ALDO_5vy5_emd_8743.pdb` - deposited reference structure (PDB: 5VY5) preprocessed with `gmx pdb2gmx` in the same way as 6ALD
+* `REF_pdb_ALDO_5vy5_emd_8743.pdb` - deposited reference structure (PDB: 5VY5) preprocessed with `gmx pdb2gmx` in the same way as 6ALD.
 
-* `REF_map_HALF(1,2)_ALDO_emd_8743.ccp4` - half-maps zoned with a 3.5 A radius around the reference structure in Chimera
+* `REF_map_HALF(1,2)_ALDO_emd_8743.ccp4` - half-maps zoned with a 3.5 A radius around the reference structure in Chimera.
 
-* `REF_map_FULL_ALDO_emd_8743.ccp4` - full-map zoned in the same way
+* `REF_map_FULL_ALDO_emd_8743.ccp4` - full-map zoned in the same way.
 
 # Setting up the simulation
 
