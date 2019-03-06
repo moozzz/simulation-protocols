@@ -21,7 +21,7 @@ For further details, please see the original publication: Igaev et al., 2019. eL
 
 * `REF_pdb_ALDO_5vy5_emd_8743.pdb` - deposited reference structure (PDB: 5VY5) preprocessed with `gmx pdb2gmx` in the same way as 6ALD.
 
-* `REF_map_HALF(1,2)_ALDO_emd_8743.ccp4` - half-maps zoned with a 3.5 A radius around the reference structure in Chimera.
+* `REF_map_HALF(1,2)_ALDO_emd_8743.ccp4` - half-maps zoned with a 3.5 A radius around the reference structure's atoms in Chimera.
 
 * `REF_map_FULL_ALDO_emd_8743.ccp4` - full-map zoned in the same way.
 
