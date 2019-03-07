@@ -44,6 +44,8 @@ vmd gmx_structure.pdb
 > quit
 ```
 
+**IMPORTANT:** please make sure the periodic box size is larger or equal to the map box size. This can be controlled by `-box` option in `gmx editconf`.
+
 3. **Fill new box with water**
 
 Run: `gmx solvate -cp gmx_structure_box.pdb -cs spc216.gro -o gmx_structure_wb.pdb -p gmx_structure.top`. This command will fill the box with water molecules and save the solvated structure to `gmx_structure_wb.pdb`.
