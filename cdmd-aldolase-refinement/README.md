@@ -100,7 +100,7 @@ If everything is fine (you got a half-map-refined structure that does not show a
 
 And then: `mdrun -ntmpi 1 -ntomp 20 -s fit_NPT_100K_protocol_FULL.tpr -deffnm fit_NPT_100K_protocol_FULL -cpi fit_NPT_100K_protocol_FULL.cpt -nb gpu -gpu_id 0 -maxh 48 -append`.
 
-Here, the structure is shortly refined against the full reconstruction (5 ns) to account for high-resolution details not present in the half-maps, which is followed by a simulated annealing step (10 ns). The last 5 ns of this run are also equilibration and can be averaged to a single PDB that will be our final model. To this end, extract the last 5 ns from the trajectory and select only the solute's non-hydrogen files:
+Here, the structure is shortly refined against the full reconstruction (5 ns) to account for high-resolution details not present in the half-maps, which is followed by a simulated annealing step (10 ns). The last 5 ns of this run are also equilibration and can be averaged to a single PDB that will be our final model. To this end, extract the last 5 ns from the trajectory and select only the solute's non-hydrogen atoms:
 
 `gmx trjconv -f fit_NPT_100K_protocol_FULL.xtc -s fit_NPT_100K_protocol_FULL.tpr -o last_5ns.pdb -pbc mol -ur compact -b 70000`
 
