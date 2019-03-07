@@ -1,6 +1,6 @@
 # Refinement of aldolase structure
 
-Source files necessary to refine of the aldolase structure (PDB: 6ALD) into the cryo-EM density (EMD: 8743). CHARMM22* force field (Piana et al., 2011. Biophys J., 100(9):L47-9) was modified for GROMACS 5.0 and 2018 compatibility and to include GTP/GDP and HEME. See `forcefield.doc` for details.
+Source files necessary to refine of the aldolase structure (PDB: 6ALD) into the cryo-EM density (EMD: 8743). CHARMM22* force field (Piana et al., 2011. Biophys J., 100(9): L47-9) was modified for GROMACS 5.0 and 2018 compatibility and to include GTP/GDP and HEME. See `forcefield.doc` for details.
 
 For further details, please see the original publication: Igaev et al., 2019. eLife 8: e43542.
 
@@ -31,7 +31,7 @@ This section assumes you have already installed either the GROMACS version from 
 
 1. **Create topology files**
 
-Just run: `./create_top.bash 6ald_fixed.pdb gmx_structure`. This will create all necessary topology files as well as a GROMACS-compatible pre-processed PDB - `gmx_structure.pdb`. The options 1 and 4 in create_top.bash mean that the user-specified force field (charmm22star_dev1.3.ff) and the charmm-modified TIP3P water will be used. Please double check if this hold for your GROMACS installation.
+Just run: `./create_top.bash 6ald_fixed.pdb gmx_structure`. This will create all necessary topology files as well as a GROMACS-compatible pre-processed PDB - `gmx_structure.pdb`. The options 1 and 4 in `create_top.bash` mean that the user-specified force field (charmm22star_dev1.3.ff) and the charmm-modified TIP3P water will be used. Please double check if this hold for your GROMACS installation.
 
 2. **Make simulation box triclinic and larger**
 
