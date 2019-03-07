@@ -31,7 +31,7 @@ This section assumes you have already installed either the GROMACS version from 
 
 1. **Create topology files**
 
-Just run: `./create_top.bash 6ald_fixed.pdb gmx_structure`. This will create all necessary topology files as well as a GROMACS-compatible pre-processed PDB - `gmx_structure.pdb`. The options 1 and 4 in `create_top.bash` mean that the user-specified force field (charmm22star_dev1.3.ff) and the charmm-modified TIP3P water will be used. Please double check if this hold for your GROMACS installation.
+Just run: `./create_top.bash 6ald_fixed.pdb gmx_structure`. This will create all necessary topology files as well as a GROMACS-compatible pre-processed PDB - `gmx_structure.pdb`. The options 1 and 4 in `create_top.bash` mean that the user-specified force field (charmm22star_dev1.3.ff) and the charmm-modified TIP3P water will be used. Please double check if this holds for your GROMACS installation.
 
 2. **Make simulation box triclinic and larger**
 
