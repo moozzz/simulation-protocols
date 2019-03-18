@@ -27,7 +27,7 @@ For further details, please see the original publication: Igaev et al., 2019. eL
 
 # Setting up the simulation
 
-This section assumes you have already installed the GROMACS version from [our homepage](https://www.mpibpc.mpg.de/grubmueller/densityfitting) made sure it supports CPU parallelization (multithreading for single nodes or MPI for large clusters) and CUDA. If you are new to GROMACS, please first read, *e.g.*, the great book chapter by Erik Lindahl: "Molecular dynamics simulations" in Methods in Molecular Biology, 1215: 3-26. The procedure described below also assumes you have some basic Linux knowledge.
+This section assumes you have already installed the GROMACS version from [our homepage](https://www.mpibpc.mpg.de/grubmueller/densityfitting) and made sure it supports CPU parallelization (multithreading for single nodes or MPI for large clusters) and CUDA. If you are new to GROMACS, please first read, *e.g.*, the great book chapter by Erik Lindahl: "Molecular dynamics simulations" in Methods in Molecular Biology, 1215: 3-26. The procedure described below also assumes you have some basic Linux knowledge.
 
 1. **Create topology files**
 
