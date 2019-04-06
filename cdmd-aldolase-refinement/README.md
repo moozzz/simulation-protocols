@@ -44,7 +44,7 @@ vmd gmx_structure.pdb
 > quit
 ```
 
-**IMPORTANT:** please make sure the box size is larger than or equal to the map box size. This can be controlled by `-box` option in `gmx editconf`.
+**IMPORTANT:** please make sure the simulation box's size is larger than or equal to the map's box size. This can be controlled by `-box` option in `gmx editconf`.
 
 3. **Fill new box with water**
 
