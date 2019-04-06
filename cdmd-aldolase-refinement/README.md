@@ -62,7 +62,7 @@ Run: `gmx grompp -f MDP/em.mdp -c gmx_structure_150mM.pdb -p gmx_structure.top -
 
 `mdrun -ntmpi 1 -ntomp 20 -s em.tpr -deffnm em -nb gpu -gpu_id 0 -maxh 3 -append`
 
-All non-bonded calculations are offloaded to the GPU. When using GROMACS 2018, one can additionally offload all PME calculations to the GPU via `-pme gpu`.
+All non-bonded calculations are offloaded to the GPU. When using GROMACS 2018, one can additionally offload all PME calculations to the GPU by setting `-npme 1` and `-pme gpu`.
 
 6. **Pre-equilibration with position restraints**
 
