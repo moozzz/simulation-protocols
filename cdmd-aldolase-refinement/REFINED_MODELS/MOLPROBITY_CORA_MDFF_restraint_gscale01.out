@@ -1,0 +1,2993 @@
+
+=============================== Model properties ==============================
+
+  Overall:
+    Number of atoms = 13845  (anisotropic = 0)
+    B_iso: mean =   0.0  max =   0.0  min =   0.0
+    Occupancy: mean = 0.00  max = 0.00  min = 0.00
+      warning: 13845 atoms with zero occupancy
+    29345 total B-factor or occupancy problem(s) detected
+    Atoms or residues with zero occupancy:
+     TYR A  19  (all)  occ=0.00
+     THR A  20  (all)  occ=0.00
+     GLY A  21  (all)  occ=0.00
+     LYS A  22  (all)  occ=0.00
+     TYR A  23  (all)  occ=0.00
+     ARG A  24  (all)  occ=0.00
+     GLU A  25  (all)  occ=0.00
+     ASP A  26  (all)  occ=0.00
+     PHE A  27  (all)  occ=0.00
+     GLU A  28  (all)  occ=0.00
+     ILE A  29  (all)  occ=0.00
+     GLU A  30  (all)  occ=0.00
+     VAL A  31  (all)  occ=0.00
+     MET A  32  (all)  occ=0.00
+     ASN A  33  (all)  occ=0.00
+     TYR A  34  (all)  occ=0.00
+     SER A  35  (all)  occ=0.00
+     ILE A  36  (all)  occ=0.00
+     GLU A  37  (all)  occ=0.00
+     GLU A  38  (all)  occ=0.00
+     PHE A  39  (all)  occ=0.00
+     ARG A  40  (all)  occ=0.00
+     GLU A  41  (all)  occ=0.00
+     PHE A  42  (all)  occ=0.00
+     LYS A  43  (all)  occ=0.00
+     THR A  44  (all)  occ=0.00
+     THR A  45  (all)  occ=0.00
+     ASP A  46  (all)  occ=0.00
+     VAL A  47  (all)  occ=0.00
+     GLU A  48  (all)  occ=0.00
+     SER A  49  (all)  occ=0.00
+     VAL A  50  (all)  occ=0.00
+     LEU A  51  (all)  occ=0.00
+     PRO A  52  (all)  occ=0.00
+     PHE A  53  (all)  occ=0.00
+     ARG A  54  (all)  occ=0.00
+     ASP A  55  (all)  occ=0.00
+     SER A  56  (all)  occ=0.00
+     SER A  57  (all)  occ=0.00
+     THR A  58  (all)  occ=0.00
+     PRO A  59  (all)  occ=0.00
+     THR A  60  (all)  occ=0.00
+     TRP A  61  (all)  occ=0.00
+     ILE A  62  (all)  occ=0.00
+     ASN A  63  (all)  occ=0.00
+     ILE A  64  (all)  occ=0.00
+     THR A  65  (all)  occ=0.00
+     GLY A  66  (all)  occ=0.00
+     ILE A  67  (all)  occ=0.00
+     HIS A  68  (all)  occ=0.00
+     ARG A  69  (all)  occ=0.00
+     THR A  70  (all)  occ=0.00
+     ASP A  71  (all)  occ=0.00
+     VAL A  72  (all)  occ=0.00
+     VAL A  73  (all)  occ=0.00
+     GLN A  74  (all)  occ=0.00
+     ARG A  75  (all)  occ=0.00
+     VAL A  76  (all)  occ=0.00
+     GLY A  77  (all)  occ=0.00
+     GLU A  78  (all)  occ=0.00
+     PHE A  79  (all)  occ=0.00
+     PHE A  80  (all)  occ=0.00
+     GLY A  81  (all)  occ=0.00
+     ILE A  82  (all)  occ=0.00
+     HIS A  83  (all)  occ=0.00
+     PRO A  84  (all)  occ=0.00
+     LEU A  85  (all)  occ=0.00
+     VAL A  86  (all)  occ=0.00
+     LEU A  87  (all)  occ=0.00
+     GLU A  88  (all)  occ=0.00
+     ASP A  89  (all)  occ=0.00
+     ILE A  90  (all)  occ=0.00
+     LEU A  91  (all)  occ=0.00
+     ASN A  92  (all)  occ=0.00
+     VAL A  93  (all)  occ=0.00
+     HIS A  94  (all)  occ=0.00
+     GLN A  95  (all)  occ=0.00
+     ARG A  96  (all)  occ=0.00
+     PRO A  97  (all)  occ=0.00
+     LYS A  98  (all)  occ=0.00
+     VAL A  99  (all)  occ=0.00
+     GLU A 100  (all)  occ=0.00
+     PHE A 101  (all)  occ=0.00
+     PHE A 102  (all)  occ=0.00
+     GLU A 103  (all)  occ=0.00
+     ASN A 104  (all)  occ=0.00
+     TYR A 105  (all)  occ=0.00
+     VAL A 106  (all)  occ=0.00
+     PHE A 107  (all)  occ=0.00
+     ILE A 108  (all)  occ=0.00
+     VAL A 109  (all)  occ=0.00
+     LEU A 110  (all)  occ=0.00
+     LYS A 111  (all)  occ=0.00
+     MET A 112  (all)  occ=0.00
+     PHE A 113  (all)  occ=0.00
+     THR A 114  (all)  occ=0.00
+     TYR A 115  (all)  occ=0.00
+     ASP A 116  (all)  occ=0.00
+     LYS A 117  (all)  occ=0.00
+     ASN A 118  (all)  occ=0.00
+     LEU A 119  (all)  occ=0.00
+     HIS A 120  (all)  occ=0.00
+     GLU A 121  (all)  occ=0.00
+     LEU A 122  (all)  occ=0.00
+     GLU A 123  (all)  occ=0.00
+     SER A 124  (all)  occ=0.00
+     GLU A 125  (all)  occ=0.00
+     GLN A 126  (all)  occ=0.00
+     VAL A 127  (all)  occ=0.00
+     SER A 128  (all)  occ=0.00
+     LEU A 129  (all)  occ=0.00
+     ILE A 130  (all)  occ=0.00
+     LEU A 131  (all)  occ=0.00
+     THR A 132  (all)  occ=0.00
+     LYS A 133  (all)  occ=0.00
+     ASN A 134  (all)  occ=0.00
+     CYS A 135  (all)  occ=0.00
+     VAL A 136  (all)  occ=0.00
+     LEU A 137  (all)  occ=0.00
+     MET A 138  (all)  occ=0.00
+     PHE A 139  (all)  occ=0.00
+     GLN A 140  (all)  occ=0.00
+     GLU A 141  (all)  occ=0.00
+     LYS A 142  (all)  occ=0.00
+     ILE A 143  (all)  occ=0.00
+     GLY A 144  (all)  occ=0.00
+     ASP A 145  (all)  occ=0.00
+     VAL A 146  (all)  occ=0.00
+     PHE A 147  (all)  occ=0.00
+     ASP A 148  (all)  occ=0.00
+     PRO A 149  (all)  occ=0.00
+     VAL A 150  (all)  occ=0.00
+     ARG A 151  (all)  occ=0.00
+     GLU A 152  (all)  occ=0.00
+     ARG A 153  (all)  occ=0.00
+     ILE A 154  (all)  occ=0.00
+     ARG A 155  (all)  occ=0.00
+     TYR A 156  (all)  occ=0.00
+     ASN A 157  (all)  occ=0.00
+     ARG A 158  (all)  occ=0.00
+     GLY A 159  (all)  occ=0.00
+     ILE A 160  (all)  occ=0.00
+     ILE A 161  (all)  occ=0.00
+     ARG A 162  (all)  occ=0.00
+     LYS A 163  (all)  occ=0.00
+     LYS A 164  (all)  occ=0.00
+     ARG A 165  (all)  occ=0.00
+     ALA A 166  (all)  occ=0.00
+     ASP A 167  (all)  occ=0.00
+     TYR A 168  (all)  occ=0.00
+     LEU A 169  (all)  occ=0.00
+     LEU A 170  (all)  occ=0.00
+     TYR A 171  (all)  occ=0.00
+     SER A 172  (all)  occ=0.00
+     LEU A 173  (all)  occ=0.00
+     ILE A 174  (all)  occ=0.00
+     ASP A 175  (all)  occ=0.00
+     ALA A 176  (all)  occ=0.00
+     LEU A 177  (all)  occ=0.00
+     VAL A 178  (all)  occ=0.00
+     ASP A 179  (all)  occ=0.00
+     ASP A 180  (all)  occ=0.00
+     TYR A 181  (all)  occ=0.00
+     PHE A 182  (all)  occ=0.00
+     VAL A 183  (all)  occ=0.00
+     LEU A 184  (all)  occ=0.00
+     LEU A 185  (all)  occ=0.00
+     GLU A 186  (all)  occ=0.00
+     LYS A 187  (all)  occ=0.00
+     ILE A 188  (all)  occ=0.00
+     ASP A 189  (all)  occ=0.00
+     ASP A 190  (all)  occ=0.00
+     GLU A 191  (all)  occ=0.00
+     ILE A 192  (all)  occ=0.00
+     ASP A 193  (all)  occ=0.00
+     VAL A 194  (all)  occ=0.00
+     LEU A 195  (all)  occ=0.00
+     GLU A 196  (all)  occ=0.00
+     GLU A 197  (all)  occ=0.00
+     GLU A 198  (all)  occ=0.00
+     VAL A 199  (all)  occ=0.00
+     LEU A 200  (all)  occ=0.00
+     GLU A 201  (all)  occ=0.00
+     ARG A 202  (all)  occ=0.00
+     PRO A 203  (all)  occ=0.00
+     GLU A 204  (all)  occ=0.00
+     LYS A 205  (all)  occ=0.00
+     GLU A 206  (all)  occ=0.00
+     THR A 207  (all)  occ=0.00
+     VAL A 208  (all)  occ=0.00
+     GLN A 209  (all)  occ=0.00
+     ARG A 210  (all)  occ=0.00
+     THR A 211  (all)  occ=0.00
+     HIS A 212  (all)  occ=0.00
+     GLN A 213  (all)  occ=0.00
+     LEU A 214  (all)  occ=0.00
+     LYS A 215  (all)  occ=0.00
+     ARG A 216  (all)  occ=0.00
+     ASN A 217  (all)  occ=0.00
+     LEU A 218  (all)  occ=0.00
+     VAL A 219  (all)  occ=0.00
+     GLU A 220  (all)  occ=0.00
+     LEU A 221  (all)  occ=0.00
+     ARG A 222  (all)  occ=0.00
+     LYS A 223  (all)  occ=0.00
+     THR A 224  (all)  occ=0.00
+     ILE A 225  (all)  occ=0.00
+     TRP A 226  (all)  occ=0.00
+     PRO A 227  (all)  occ=0.00
+     LEU A 228  (all)  occ=0.00
+     ARG A 229  (all)  occ=0.00
+     GLU A 230  (all)  occ=0.00
+     VAL A 231  (all)  occ=0.00
+     LEU A 232  (all)  occ=0.00
+     SER A 233  (all)  occ=0.00
+     SER A 234  (all)  occ=0.00
+     LEU A 235  (all)  occ=0.00
+     TYR A 236  (all)  occ=0.00
+     ARG A 237  (all)  occ=0.00
+     ASP A 238  (all)  occ=0.00
+     VAL A 239  (all)  occ=0.00
+     PRO A 240  (all)  occ=0.00
+     PRO A 241  (all)  occ=0.00
+     LEU A 242  (all)  occ=0.00
+     ILE A 243  (all)  occ=0.00
+     GLU A 244  (all)  occ=0.00
+     LYS A 245  (all)  occ=0.00
+     GLU A 246  (all)  occ=0.00
+     THR A 247  (all)  occ=0.00
+     VAL A 248  (all)  occ=0.00
+     PRO A 249  (all)  occ=0.00
+     TYR A 250  (all)  occ=0.00
+     PHE A 251  (all)  occ=0.00
+     ARG A 252  (all)  occ=0.00
+     ASP A 253  (all)  occ=0.00
+     VAL A 254  (all)  occ=0.00
+     TYR A 255  (all)  occ=0.00
+     ASP A 256  (all)  occ=0.00
+     HIS A 257  (all)  occ=0.00
+     THR A 258  (all)  occ=0.00
+     ILE A 259  (all)  occ=0.00
+     GLN A 260  (all)  occ=0.00
+     ILE A 261  (all)  occ=0.00
+     ALA A 262  (all)  occ=0.00
+     ASP A 263  (all)  occ=0.00
+     THR A 264  (all)  occ=0.00
+     VAL A 265  (all)  occ=0.00
+     GLU A 266  (all)  occ=0.00
+     THR A 267  (all)  occ=0.00
+     PHE A 268  (all)  occ=0.00
+     ARG A 269  (all)  occ=0.00
+     ASP A 270  (all)  occ=0.00
+     ILE A 271  (all)  occ=0.00
+     VAL A 272  (all)  occ=0.00
+     SER A 273  (all)  occ=0.00
+     GLY A 274  (all)  occ=0.00
+     LEU A 275  (all)  occ=0.00
+     LEU A 276  (all)  occ=0.00
+     ASP A 277  (all)  occ=0.00
+     VAL A 278  (all)  occ=0.00
+     TYR A 279  (all)  occ=0.00
+     LEU A 280  (all)  occ=0.00
+     SER A 281  (all)  occ=0.00
+     SER A 282  (all)  occ=0.00
+     VAL A 283  (all)  occ=0.00
+     SER A 284  (all)  occ=0.00
+     ASN A 285  (all)  occ=0.00
+     LYS A 286  (all)  occ=0.00
+     THR A 287  (all)  occ=0.00
+     ASN A 288  (all)  occ=0.00
+     GLU A 289  (all)  occ=0.00
+     VAL A 290  (all)  occ=0.00
+     MET A 291  (all)  occ=0.00
+     LYS A 292  (all)  occ=0.00
+     VAL A 293  (all)  occ=0.00
+     LEU A 294  (all)  occ=0.00
+     THR A 295  (all)  occ=0.00
+     ILE A 296  (all)  occ=0.00
+     ILE A 297  (all)  occ=0.00
+     ALA A 298  (all)  occ=0.00
+     THR A 299  (all)  occ=0.00
+     ILE A 300  (all)  occ=0.00
+     PHE A 301  (all)  occ=0.00
+     MET A 302  (all)  occ=0.00
+     PRO A 303  (all)  occ=0.00
+     LEU A 304  (all)  occ=0.00
+     THR A 305  (all)  occ=0.00
+     PHE A 306  (all)  occ=0.00
+     ILE A 307  (all)  occ=0.00
+     ALA A 308  (all)  occ=0.00
+     GLY A 309  (all)  occ=0.00
+     ILE A 310  (all)  occ=0.00
+     TYR A 311  (all)  occ=0.00
+     GLY A 312  (all)  occ=0.00
+     MET A 313  (all)  occ=0.00
+     ASN A 314  (all)  occ=0.00
+     PHE A 315  (all)  occ=0.00
+     GLU A 316  (all)  occ=0.00
+     TYR A 317  (all)  occ=0.00
+     MET A 318  (all)  occ=0.00
+     PRO A 319  (all)  occ=0.00
+     GLU A 320  (all)  occ=0.00
+     LEU A 321  (all)  occ=0.00
+     ARG A 322  (all)  occ=0.00
+     TRP A 323  (all)  occ=0.00
+     LYS A 324  (all)  occ=0.00
+     TRP A 325  (all)  occ=0.00
+     GLY A 326  (all)  occ=0.00
+     TYR A 327  (all)  occ=0.00
+     PRO A 328  (all)  occ=0.00
+     VAL A 329  (all)  occ=0.00
+     VAL A 330  (all)  occ=0.00
+     LEU A 331  (all)  occ=0.00
+     ALA A 332  (all)  occ=0.00
+     VAL A 333  (all)  occ=0.00
+     MET A 334  (all)  occ=0.00
+     GLY A 335  (all)  occ=0.00
+     VAL A 336  (all)  occ=0.00
+     ILE A 337  (all)  occ=0.00
+     ALA A 338  (all)  occ=0.00
+     VAL A 339  (all)  occ=0.00
+     ILE A 340  (all)  occ=0.00
+     MET A 341  (all)  occ=0.00
+     VAL A 342  (all)  occ=0.00
+     VAL A 343  (all)  occ=0.00
+     TYR A 344  (all)  occ=0.00
+     PHE A 345  (all)  occ=0.00
+     LYS A 346  (all)  occ=0.00
+     LYS A 347  (all)  occ=0.00
+     LYS A 348  (all)  occ=0.00
+     LYS A 349  (all)  occ=0.00
+     TYR B  19  (all)  occ=0.00
+     THR B  20  (all)  occ=0.00
+     GLY B  21  (all)  occ=0.00
+     LYS B  22  (all)  occ=0.00
+     TYR B  23  (all)  occ=0.00
+     ARG B  24  (all)  occ=0.00
+     GLU B  25  (all)  occ=0.00
+     ASP B  26  (all)  occ=0.00
+     PHE B  27  (all)  occ=0.00
+     GLU B  28  (all)  occ=0.00
+     ILE B  29  (all)  occ=0.00
+     GLU B  30  (all)  occ=0.00
+     VAL B  31  (all)  occ=0.00
+     MET B  32  (all)  occ=0.00
+     ASN B  33  (all)  occ=0.00
+     TYR B  34  (all)  occ=0.00
+     SER B  35  (all)  occ=0.00
+     ILE B  36  (all)  occ=0.00
+     GLU B  37  (all)  occ=0.00
+     GLU B  38  (all)  occ=0.00
+     PHE B  39  (all)  occ=0.00
+     ARG B  40  (all)  occ=0.00
+     GLU B  41  (all)  occ=0.00
+     PHE B  42  (all)  occ=0.00
+     LYS B  43  (all)  occ=0.00
+     THR B  44  (all)  occ=0.00
+     THR B  45  (all)  occ=0.00
+     ASP B  46  (all)  occ=0.00
+     VAL B  47  (all)  occ=0.00
+     GLU B  48  (all)  occ=0.00
+     SER B  49  (all)  occ=0.00
+     VAL B  50  (all)  occ=0.00
+     LEU B  51  (all)  occ=0.00
+     PRO B  52  (all)  occ=0.00
+     PHE B  53  (all)  occ=0.00
+     ARG B  54  (all)  occ=0.00
+     ASP B  55  (all)  occ=0.00
+     SER B  56  (all)  occ=0.00
+     SER B  57  (all)  occ=0.00
+     THR B  58  (all)  occ=0.00
+     PRO B  59  (all)  occ=0.00
+     THR B  60  (all)  occ=0.00
+     TRP B  61  (all)  occ=0.00
+     ILE B  62  (all)  occ=0.00
+     ASN B  63  (all)  occ=0.00
+     ILE B  64  (all)  occ=0.00
+     THR B  65  (all)  occ=0.00
+     GLY B  66  (all)  occ=0.00
+     ILE B  67  (all)  occ=0.00
+     HIS B  68  (all)  occ=0.00
+     ARG B  69  (all)  occ=0.00
+     THR B  70  (all)  occ=0.00
+     ASP B  71  (all)  occ=0.00
+     VAL B  72  (all)  occ=0.00
+     VAL B  73  (all)  occ=0.00
+     GLN B  74  (all)  occ=0.00
+     ARG B  75  (all)  occ=0.00
+     VAL B  76  (all)  occ=0.00
+     GLY B  77  (all)  occ=0.00
+     GLU B  78  (all)  occ=0.00
+     PHE B  79  (all)  occ=0.00
+     PHE B  80  (all)  occ=0.00
+     GLY B  81  (all)  occ=0.00
+     ILE B  82  (all)  occ=0.00
+     HIS B  83  (all)  occ=0.00
+     PRO B  84  (all)  occ=0.00
+     LEU B  85  (all)  occ=0.00
+     VAL B  86  (all)  occ=0.00
+     LEU B  87  (all)  occ=0.00
+     GLU B  88  (all)  occ=0.00
+     ASP B  89  (all)  occ=0.00
+     ILE B  90  (all)  occ=0.00
+     LEU B  91  (all)  occ=0.00
+     ASN B  92  (all)  occ=0.00
+     VAL B  93  (all)  occ=0.00
+     HIS B  94  (all)  occ=0.00
+     GLN B  95  (all)  occ=0.00
+     ARG B  96  (all)  occ=0.00
+     PRO B  97  (all)  occ=0.00
+     LYS B  98  (all)  occ=0.00
+     VAL B  99  (all)  occ=0.00
+     GLU B 100  (all)  occ=0.00
+     PHE B 101  (all)  occ=0.00
+     PHE B 102  (all)  occ=0.00
+     GLU B 103  (all)  occ=0.00
+     ASN B 104  (all)  occ=0.00
+     TYR B 105  (all)  occ=0.00
+     VAL B 106  (all)  occ=0.00
+     PHE B 107  (all)  occ=0.00
+     ILE B 108  (all)  occ=0.00
+     VAL B 109  (all)  occ=0.00
+     LEU B 110  (all)  occ=0.00
+     LYS B 111  (all)  occ=0.00
+     MET B 112  (all)  occ=0.00
+     PHE B 113  (all)  occ=0.00
+     THR B 114  (all)  occ=0.00
+     TYR B 115  (all)  occ=0.00
+     ASP B 116  (all)  occ=0.00
+     LYS B 117  (all)  occ=0.00
+     ASN B 118  (all)  occ=0.00
+     LEU B 119  (all)  occ=0.00
+     HIS B 120  (all)  occ=0.00
+     GLU B 121  (all)  occ=0.00
+     LEU B 122  (all)  occ=0.00
+     GLU B 123  (all)  occ=0.00
+     SER B 124  (all)  occ=0.00
+     GLU B 125  (all)  occ=0.00
+     GLN B 126  (all)  occ=0.00
+     VAL B 127  (all)  occ=0.00
+     SER B 128  (all)  occ=0.00
+     LEU B 129  (all)  occ=0.00
+     ILE B 130  (all)  occ=0.00
+     LEU B 131  (all)  occ=0.00
+     THR B 132  (all)  occ=0.00
+     LYS B 133  (all)  occ=0.00
+     ASN B 134  (all)  occ=0.00
+     CYS B 135  (all)  occ=0.00
+     VAL B 136  (all)  occ=0.00
+     LEU B 137  (all)  occ=0.00
+     MET B 138  (all)  occ=0.00
+     PHE B 139  (all)  occ=0.00
+     GLN B 140  (all)  occ=0.00
+     GLU B 141  (all)  occ=0.00
+     LYS B 142  (all)  occ=0.00
+     ILE B 143  (all)  occ=0.00
+     GLY B 144  (all)  occ=0.00
+     ASP B 145  (all)  occ=0.00
+     VAL B 146  (all)  occ=0.00
+     PHE B 147  (all)  occ=0.00
+     ASP B 148  (all)  occ=0.00
+     PRO B 149  (all)  occ=0.00
+     VAL B 150  (all)  occ=0.00
+     ARG B 151  (all)  occ=0.00
+     GLU B 152  (all)  occ=0.00
+     ARG B 153  (all)  occ=0.00
+     ILE B 154  (all)  occ=0.00
+     ARG B 155  (all)  occ=0.00
+     TYR B 156  (all)  occ=0.00
+     ASN B 157  (all)  occ=0.00
+     ARG B 158  (all)  occ=0.00
+     GLY B 159  (all)  occ=0.00
+     ILE B 160  (all)  occ=0.00
+     ILE B 161  (all)  occ=0.00
+     ARG B 162  (all)  occ=0.00
+     LYS B 163  (all)  occ=0.00
+     LYS B 164  (all)  occ=0.00
+     ARG B 165  (all)  occ=0.00
+     ALA B 166  (all)  occ=0.00
+     ASP B 167  (all)  occ=0.00
+     TYR B 168  (all)  occ=0.00
+     LEU B 169  (all)  occ=0.00
+     LEU B 170  (all)  occ=0.00
+     TYR B 171  (all)  occ=0.00
+     SER B 172  (all)  occ=0.00
+     LEU B 173  (all)  occ=0.00
+     ILE B 174  (all)  occ=0.00
+     ASP B 175  (all)  occ=0.00
+     ALA B 176  (all)  occ=0.00
+     LEU B 177  (all)  occ=0.00
+     VAL B 178  (all)  occ=0.00
+     ASP B 179  (all)  occ=0.00
+     ASP B 180  (all)  occ=0.00
+     TYR B 181  (all)  occ=0.00
+     PHE B 182  (all)  occ=0.00
+     VAL B 183  (all)  occ=0.00
+     LEU B 184  (all)  occ=0.00
+     LEU B 185  (all)  occ=0.00
+     GLU B 186  (all)  occ=0.00
+     LYS B 187  (all)  occ=0.00
+     ILE B 188  (all)  occ=0.00
+     ASP B 189  (all)  occ=0.00
+     ASP B 190  (all)  occ=0.00
+     GLU B 191  (all)  occ=0.00
+     ILE B 192  (all)  occ=0.00
+     ASP B 193  (all)  occ=0.00
+     VAL B 194  (all)  occ=0.00
+     LEU B 195  (all)  occ=0.00
+     GLU B 196  (all)  occ=0.00
+     GLU B 197  (all)  occ=0.00
+     GLU B 198  (all)  occ=0.00
+     VAL B 199  (all)  occ=0.00
+     LEU B 200  (all)  occ=0.00
+     GLU B 201  (all)  occ=0.00
+     ARG B 202  (all)  occ=0.00
+     PRO B 203  (all)  occ=0.00
+     GLU B 204  (all)  occ=0.00
+     LYS B 205  (all)  occ=0.00
+     GLU B 206  (all)  occ=0.00
+     THR B 207  (all)  occ=0.00
+     VAL B 208  (all)  occ=0.00
+     GLN B 209  (all)  occ=0.00
+     ARG B 210  (all)  occ=0.00
+     THR B 211  (all)  occ=0.00
+     HIS B 212  (all)  occ=0.00
+     GLN B 213  (all)  occ=0.00
+     LEU B 214  (all)  occ=0.00
+     LYS B 215  (all)  occ=0.00
+     ARG B 216  (all)  occ=0.00
+     ASN B 217  (all)  occ=0.00
+     LEU B 218  (all)  occ=0.00
+     VAL B 219  (all)  occ=0.00
+     GLU B 220  (all)  occ=0.00
+     LEU B 221  (all)  occ=0.00
+     ARG B 222  (all)  occ=0.00
+     LYS B 223  (all)  occ=0.00
+     THR B 224  (all)  occ=0.00
+     ILE B 225  (all)  occ=0.00
+     TRP B 226  (all)  occ=0.00
+     PRO B 227  (all)  occ=0.00
+     LEU B 228  (all)  occ=0.00
+     ARG B 229  (all)  occ=0.00
+     GLU B 230  (all)  occ=0.00
+     VAL B 231  (all)  occ=0.00
+     LEU B 232  (all)  occ=0.00
+     SER B 233  (all)  occ=0.00
+     SER B 234  (all)  occ=0.00
+     LEU B 235  (all)  occ=0.00
+     TYR B 236  (all)  occ=0.00
+     ARG B 237  (all)  occ=0.00
+     ASP B 238  (all)  occ=0.00
+     VAL B 239  (all)  occ=0.00
+     PRO B 240  (all)  occ=0.00
+     PRO B 241  (all)  occ=0.00
+     LEU B 242  (all)  occ=0.00
+     ILE B 243  (all)  occ=0.00
+     GLU B 244  (all)  occ=0.00
+     LYS B 245  (all)  occ=0.00
+     GLU B 246  (all)  occ=0.00
+     THR B 247  (all)  occ=0.00
+     VAL B 248  (all)  occ=0.00
+     PRO B 249  (all)  occ=0.00
+     TYR B 250  (all)  occ=0.00
+     PHE B 251  (all)  occ=0.00
+     ARG B 252  (all)  occ=0.00
+     ASP B 253  (all)  occ=0.00
+     VAL B 254  (all)  occ=0.00
+     TYR B 255  (all)  occ=0.00
+     ASP B 256  (all)  occ=0.00
+     HIS B 257  (all)  occ=0.00
+     THR B 258  (all)  occ=0.00
+     ILE B 259  (all)  occ=0.00
+     GLN B 260  (all)  occ=0.00
+     ILE B 261  (all)  occ=0.00
+     ALA B 262  (all)  occ=0.00
+     ASP B 263  (all)  occ=0.00
+     THR B 264  (all)  occ=0.00
+     VAL B 265  (all)  occ=0.00
+     GLU B 266  (all)  occ=0.00
+     THR B 267  (all)  occ=0.00
+     PHE B 268  (all)  occ=0.00
+     ARG B 269  (all)  occ=0.00
+     ASP B 270  (all)  occ=0.00
+     ILE B 271  (all)  occ=0.00
+     VAL B 272  (all)  occ=0.00
+     SER B 273  (all)  occ=0.00
+     GLY B 274  (all)  occ=0.00
+     LEU B 275  (all)  occ=0.00
+     LEU B 276  (all)  occ=0.00
+     ASP B 277  (all)  occ=0.00
+     VAL B 278  (all)  occ=0.00
+     TYR B 279  (all)  occ=0.00
+     LEU B 280  (all)  occ=0.00
+     SER B 281  (all)  occ=0.00
+     SER B 282  (all)  occ=0.00
+     VAL B 283  (all)  occ=0.00
+     SER B 284  (all)  occ=0.00
+     ASN B 285  (all)  occ=0.00
+     LYS B 286  (all)  occ=0.00
+     THR B 287  (all)  occ=0.00
+     ASN B 288  (all)  occ=0.00
+     GLU B 289  (all)  occ=0.00
+     VAL B 290  (all)  occ=0.00
+     MET B 291  (all)  occ=0.00
+     LYS B 292  (all)  occ=0.00
+     VAL B 293  (all)  occ=0.00
+     LEU B 294  (all)  occ=0.00
+     THR B 295  (all)  occ=0.00
+     ILE B 296  (all)  occ=0.00
+     ILE B 297  (all)  occ=0.00
+     ALA B 298  (all)  occ=0.00
+     THR B 299  (all)  occ=0.00
+     ILE B 300  (all)  occ=0.00
+     PHE B 301  (all)  occ=0.00
+     MET B 302  (all)  occ=0.00
+     PRO B 303  (all)  occ=0.00
+     LEU B 304  (all)  occ=0.00
+     THR B 305  (all)  occ=0.00
+     PHE B 306  (all)  occ=0.00
+     ILE B 307  (all)  occ=0.00
+     ALA B 308  (all)  occ=0.00
+     GLY B 309  (all)  occ=0.00
+     ILE B 310  (all)  occ=0.00
+     TYR B 311  (all)  occ=0.00
+     GLY B 312  (all)  occ=0.00
+     MET B 313  (all)  occ=0.00
+     ASN B 314  (all)  occ=0.00
+     PHE B 315  (all)  occ=0.00
+     GLU B 316  (all)  occ=0.00
+     TYR B 317  (all)  occ=0.00
+     MET B 318  (all)  occ=0.00
+     PRO B 319  (all)  occ=0.00
+     GLU B 320  (all)  occ=0.00
+     LEU B 321  (all)  occ=0.00
+     ARG B 322  (all)  occ=0.00
+     TRP B 323  (all)  occ=0.00
+     LYS B 324  (all)  occ=0.00
+     TRP B 325  (all)  occ=0.00
+     GLY B 326  (all)  occ=0.00
+     TYR B 327  (all)  occ=0.00
+     PRO B 328  (all)  occ=0.00
+     VAL B 329  (all)  occ=0.00
+     VAL B 330  (all)  occ=0.00
+     LEU B 331  (all)  occ=0.00
+     ALA B 332  (all)  occ=0.00
+     VAL B 333  (all)  occ=0.00
+     MET B 334  (all)  occ=0.00
+     GLY B 335  (all)  occ=0.00
+     VAL B 336  (all)  occ=0.00
+     ILE B 337  (all)  occ=0.00
+     ALA B 338  (all)  occ=0.00
+     VAL B 339  (all)  occ=0.00
+     ILE B 340  (all)  occ=0.00
+     MET B 341  (all)  occ=0.00
+     VAL B 342  (all)  occ=0.00
+     VAL B 343  (all)  occ=0.00
+     TYR B 344  (all)  occ=0.00
+     PHE B 345  (all)  occ=0.00
+     LYS B 346  (all)  occ=0.00
+     LYS B 347  (all)  occ=0.00
+     LYS B 348  (all)  occ=0.00
+     LYS B 349  (all)  occ=0.00
+     TYR C  19  (all)  occ=0.00
+     THR C  20  (all)  occ=0.00
+     GLY C  21  (all)  occ=0.00
+     LYS C  22  (all)  occ=0.00
+     TYR C  23  (all)  occ=0.00
+     ARG C  24  (all)  occ=0.00
+     GLU C  25  (all)  occ=0.00
+     ASP C  26  (all)  occ=0.00
+     PHE C  27  (all)  occ=0.00
+     GLU C  28  (all)  occ=0.00
+     ILE C  29  (all)  occ=0.00
+     GLU C  30  (all)  occ=0.00
+     VAL C  31  (all)  occ=0.00
+     MET C  32  (all)  occ=0.00
+     ASN C  33  (all)  occ=0.00
+     TYR C  34  (all)  occ=0.00
+     SER C  35  (all)  occ=0.00
+     ILE C  36  (all)  occ=0.00
+     GLU C  37  (all)  occ=0.00
+     GLU C  38  (all)  occ=0.00
+     PHE C  39  (all)  occ=0.00
+     ARG C  40  (all)  occ=0.00
+     GLU C  41  (all)  occ=0.00
+     PHE C  42  (all)  occ=0.00
+     LYS C  43  (all)  occ=0.00
+     THR C  44  (all)  occ=0.00
+     THR C  45  (all)  occ=0.00
+     ASP C  46  (all)  occ=0.00
+     VAL C  47  (all)  occ=0.00
+     GLU C  48  (all)  occ=0.00
+     SER C  49  (all)  occ=0.00
+     VAL C  50  (all)  occ=0.00
+     LEU C  51  (all)  occ=0.00
+     PRO C  52  (all)  occ=0.00
+     PHE C  53  (all)  occ=0.00
+     ARG C  54  (all)  occ=0.00
+     ASP C  55  (all)  occ=0.00
+     SER C  56  (all)  occ=0.00
+     SER C  57  (all)  occ=0.00
+     THR C  58  (all)  occ=0.00
+     PRO C  59  (all)  occ=0.00
+     THR C  60  (all)  occ=0.00
+     TRP C  61  (all)  occ=0.00
+     ILE C  62  (all)  occ=0.00
+     ASN C  63  (all)  occ=0.00
+     ILE C  64  (all)  occ=0.00
+     THR C  65  (all)  occ=0.00
+     GLY C  66  (all)  occ=0.00
+     ILE C  67  (all)  occ=0.00
+     HIS C  68  (all)  occ=0.00
+     ARG C  69  (all)  occ=0.00
+     THR C  70  (all)  occ=0.00
+     ASP C  71  (all)  occ=0.00
+     VAL C  72  (all)  occ=0.00
+     VAL C  73  (all)  occ=0.00
+     GLN C  74  (all)  occ=0.00
+     ARG C  75  (all)  occ=0.00
+     VAL C  76  (all)  occ=0.00
+     GLY C  77  (all)  occ=0.00
+     GLU C  78  (all)  occ=0.00
+     PHE C  79  (all)  occ=0.00
+     PHE C  80  (all)  occ=0.00
+     GLY C  81  (all)  occ=0.00
+     ILE C  82  (all)  occ=0.00
+     HIS C  83  (all)  occ=0.00
+     PRO C  84  (all)  occ=0.00
+     LEU C  85  (all)  occ=0.00
+     VAL C  86  (all)  occ=0.00
+     LEU C  87  (all)  occ=0.00
+     GLU C  88  (all)  occ=0.00
+     ASP C  89  (all)  occ=0.00
+     ILE C  90  (all)  occ=0.00
+     LEU C  91  (all)  occ=0.00
+     ASN C  92  (all)  occ=0.00
+     VAL C  93  (all)  occ=0.00
+     HIS C  94  (all)  occ=0.00
+     GLN C  95  (all)  occ=0.00
+     ARG C  96  (all)  occ=0.00
+     PRO C  97  (all)  occ=0.00
+     LYS C  98  (all)  occ=0.00
+     VAL C  99  (all)  occ=0.00
+     GLU C 100  (all)  occ=0.00
+     PHE C 101  (all)  occ=0.00
+     PHE C 102  (all)  occ=0.00
+     GLU C 103  (all)  occ=0.00
+     ASN C 104  (all)  occ=0.00
+     TYR C 105  (all)  occ=0.00
+     VAL C 106  (all)  occ=0.00
+     PHE C 107  (all)  occ=0.00
+     ILE C 108  (all)  occ=0.00
+     VAL C 109  (all)  occ=0.00
+     LEU C 110  (all)  occ=0.00
+     LYS C 111  (all)  occ=0.00
+     MET C 112  (all)  occ=0.00
+     PHE C 113  (all)  occ=0.00
+     THR C 114  (all)  occ=0.00
+     TYR C 115  (all)  occ=0.00
+     ASP C 116  (all)  occ=0.00
+     LYS C 117  (all)  occ=0.00
+     ASN C 118  (all)  occ=0.00
+     LEU C 119  (all)  occ=0.00
+     HIS C 120  (all)  occ=0.00
+     GLU C 121  (all)  occ=0.00
+     LEU C 122  (all)  occ=0.00
+     GLU C 123  (all)  occ=0.00
+     SER C 124  (all)  occ=0.00
+     GLU C 125  (all)  occ=0.00
+     GLN C 126  (all)  occ=0.00
+     VAL C 127  (all)  occ=0.00
+     SER C 128  (all)  occ=0.00
+     LEU C 129  (all)  occ=0.00
+     ILE C 130  (all)  occ=0.00
+     LEU C 131  (all)  occ=0.00
+     THR C 132  (all)  occ=0.00
+     LYS C 133  (all)  occ=0.00
+     ASN C 134  (all)  occ=0.00
+     CYS C 135  (all)  occ=0.00
+     VAL C 136  (all)  occ=0.00
+     LEU C 137  (all)  occ=0.00
+     MET C 138  (all)  occ=0.00
+     PHE C 139  (all)  occ=0.00
+     GLN C 140  (all)  occ=0.00
+     GLU C 141  (all)  occ=0.00
+     LYS C 142  (all)  occ=0.00
+     ILE C 143  (all)  occ=0.00
+     GLY C 144  (all)  occ=0.00
+     ASP C 145  (all)  occ=0.00
+     VAL C 146  (all)  occ=0.00
+     PHE C 147  (all)  occ=0.00
+     ASP C 148  (all)  occ=0.00
+     PRO C 149  (all)  occ=0.00
+     VAL C 150  (all)  occ=0.00
+     ARG C 151  (all)  occ=0.00
+     GLU C 152  (all)  occ=0.00
+     ARG C 153  (all)  occ=0.00
+     ILE C 154  (all)  occ=0.00
+     ARG C 155  (all)  occ=0.00
+     TYR C 156  (all)  occ=0.00
+     ASN C 157  (all)  occ=0.00
+     ARG C 158  (all)  occ=0.00
+     GLY C 159  (all)  occ=0.00
+     ILE C 160  (all)  occ=0.00
+     ILE C 161  (all)  occ=0.00
+     ARG C 162  (all)  occ=0.00
+     LYS C 163  (all)  occ=0.00
+     LYS C 164  (all)  occ=0.00
+     ARG C 165  (all)  occ=0.00
+     ALA C 166  (all)  occ=0.00
+     ASP C 167  (all)  occ=0.00
+     TYR C 168  (all)  occ=0.00
+     LEU C 169  (all)  occ=0.00
+     LEU C 170  (all)  occ=0.00
+     TYR C 171  (all)  occ=0.00
+     SER C 172  (all)  occ=0.00
+     LEU C 173  (all)  occ=0.00
+     ILE C 174  (all)  occ=0.00
+     ASP C 175  (all)  occ=0.00
+     ALA C 176  (all)  occ=0.00
+     LEU C 177  (all)  occ=0.00
+     VAL C 178  (all)  occ=0.00
+     ASP C 179  (all)  occ=0.00
+     ASP C 180  (all)  occ=0.00
+     TYR C 181  (all)  occ=0.00
+     PHE C 182  (all)  occ=0.00
+     VAL C 183  (all)  occ=0.00
+     LEU C 184  (all)  occ=0.00
+     LEU C 185  (all)  occ=0.00
+     GLU C 186  (all)  occ=0.00
+     LYS C 187  (all)  occ=0.00
+     ILE C 188  (all)  occ=0.00
+     ASP C 189  (all)  occ=0.00
+     ASP C 190  (all)  occ=0.00
+     GLU C 191  (all)  occ=0.00
+     ILE C 192  (all)  occ=0.00
+     ASP C 193  (all)  occ=0.00
+     VAL C 194  (all)  occ=0.00
+     LEU C 195  (all)  occ=0.00
+     GLU C 196  (all)  occ=0.00
+     GLU C 197  (all)  occ=0.00
+     GLU C 198  (all)  occ=0.00
+     VAL C 199  (all)  occ=0.00
+     LEU C 200  (all)  occ=0.00
+     GLU C 201  (all)  occ=0.00
+     ARG C 202  (all)  occ=0.00
+     PRO C 203  (all)  occ=0.00
+     GLU C 204  (all)  occ=0.00
+     LYS C 205  (all)  occ=0.00
+     GLU C 206  (all)  occ=0.00
+     THR C 207  (all)  occ=0.00
+     VAL C 208  (all)  occ=0.00
+     GLN C 209  (all)  occ=0.00
+     ARG C 210  (all)  occ=0.00
+     THR C 211  (all)  occ=0.00
+     HIS C 212  (all)  occ=0.00
+     GLN C 213  (all)  occ=0.00
+     LEU C 214  (all)  occ=0.00
+     LYS C 215  (all)  occ=0.00
+     ARG C 216  (all)  occ=0.00
+     ASN C 217  (all)  occ=0.00
+     LEU C 218  (all)  occ=0.00
+     VAL C 219  (all)  occ=0.00
+     GLU C 220  (all)  occ=0.00
+     LEU C 221  (all)  occ=0.00
+     ARG C 222  (all)  occ=0.00
+     LYS C 223  (all)  occ=0.00
+     THR C 224  (all)  occ=0.00
+     ILE C 225  (all)  occ=0.00
+     TRP C 226  (all)  occ=0.00
+     PRO C 227  (all)  occ=0.00
+     LEU C 228  (all)  occ=0.00
+     ARG C 229  (all)  occ=0.00
+     GLU C 230  (all)  occ=0.00
+     VAL C 231  (all)  occ=0.00
+     LEU C 232  (all)  occ=0.00
+     SER C 233  (all)  occ=0.00
+     SER C 234  (all)  occ=0.00
+     LEU C 235  (all)  occ=0.00
+     TYR C 236  (all)  occ=0.00
+     ARG C 237  (all)  occ=0.00
+     ASP C 238  (all)  occ=0.00
+     VAL C 239  (all)  occ=0.00
+     PRO C 240  (all)  occ=0.00
+     PRO C 241  (all)  occ=0.00
+     LEU C 242  (all)  occ=0.00
+     ILE C 243  (all)  occ=0.00
+     GLU C 244  (all)  occ=0.00
+     LYS C 245  (all)  occ=0.00
+     GLU C 246  (all)  occ=0.00
+     THR C 247  (all)  occ=0.00
+     VAL C 248  (all)  occ=0.00
+     PRO C 249  (all)  occ=0.00
+     TYR C 250  (all)  occ=0.00
+     PHE C 251  (all)  occ=0.00
+     ARG C 252  (all)  occ=0.00
+     ASP C 253  (all)  occ=0.00
+     VAL C 254  (all)  occ=0.00
+     TYR C 255  (all)  occ=0.00
+     ASP C 256  (all)  occ=0.00
+     HIS C 257  (all)  occ=0.00
+     THR C 258  (all)  occ=0.00
+     ILE C 259  (all)  occ=0.00
+     GLN C 260  (all)  occ=0.00
+     ILE C 261  (all)  occ=0.00
+     ALA C 262  (all)  occ=0.00
+     ASP C 263  (all)  occ=0.00
+     THR C 264  (all)  occ=0.00
+     VAL C 265  (all)  occ=0.00
+     GLU C 266  (all)  occ=0.00
+     THR C 267  (all)  occ=0.00
+     PHE C 268  (all)  occ=0.00
+     ARG C 269  (all)  occ=0.00
+     ASP C 270  (all)  occ=0.00
+     ILE C 271  (all)  occ=0.00
+     VAL C 272  (all)  occ=0.00
+     SER C 273  (all)  occ=0.00
+     GLY C 274  (all)  occ=0.00
+     LEU C 275  (all)  occ=0.00
+     LEU C 276  (all)  occ=0.00
+     ASP C 277  (all)  occ=0.00
+     VAL C 278  (all)  occ=0.00
+     TYR C 279  (all)  occ=0.00
+     LEU C 280  (all)  occ=0.00
+     SER C 281  (all)  occ=0.00
+     SER C 282  (all)  occ=0.00
+     VAL C 283  (all)  occ=0.00
+     SER C 284  (all)  occ=0.00
+     ASN C 285  (all)  occ=0.00
+     LYS C 286  (all)  occ=0.00
+     THR C 287  (all)  occ=0.00
+     ASN C 288  (all)  occ=0.00
+     GLU C 289  (all)  occ=0.00
+     VAL C 290  (all)  occ=0.00
+     MET C 291  (all)  occ=0.00
+     LYS C 292  (all)  occ=0.00
+     VAL C 293  (all)  occ=0.00
+     LEU C 294  (all)  occ=0.00
+     THR C 295  (all)  occ=0.00
+     ILE C 296  (all)  occ=0.00
+     ILE C 297  (all)  occ=0.00
+     ALA C 298  (all)  occ=0.00
+     THR C 299  (all)  occ=0.00
+     ILE C 300  (all)  occ=0.00
+     PHE C 301  (all)  occ=0.00
+     MET C 302  (all)  occ=0.00
+     PRO C 303  (all)  occ=0.00
+     LEU C 304  (all)  occ=0.00
+     THR C 305  (all)  occ=0.00
+     PHE C 306  (all)  occ=0.00
+     ILE C 307  (all)  occ=0.00
+     ALA C 308  (all)  occ=0.00
+     GLY C 309  (all)  occ=0.00
+     ILE C 310  (all)  occ=0.00
+     TYR C 311  (all)  occ=0.00
+     GLY C 312  (all)  occ=0.00
+     MET C 313  (all)  occ=0.00
+     ASN C 314  (all)  occ=0.00
+     PHE C 315  (all)  occ=0.00
+     GLU C 316  (all)  occ=0.00
+     TYR C 317  (all)  occ=0.00
+     MET C 318  (all)  occ=0.00
+     PRO C 319  (all)  occ=0.00
+     GLU C 320  (all)  occ=0.00
+     LEU C 321  (all)  occ=0.00
+     ARG C 322  (all)  occ=0.00
+     TRP C 323  (all)  occ=0.00
+     LYS C 324  (all)  occ=0.00
+     TRP C 325  (all)  occ=0.00
+     GLY C 326  (all)  occ=0.00
+     TYR C 327  (all)  occ=0.00
+     PRO C 328  (all)  occ=0.00
+     VAL C 329  (all)  occ=0.00
+     VAL C 330  (all)  occ=0.00
+     LEU C 331  (all)  occ=0.00
+     ALA C 332  (all)  occ=0.00
+     VAL C 333  (all)  occ=0.00
+     MET C 334  (all)  occ=0.00
+     GLY C 335  (all)  occ=0.00
+     VAL C 336  (all)  occ=0.00
+     ILE C 337  (all)  occ=0.00
+     ALA C 338  (all)  occ=0.00
+     VAL C 339  (all)  occ=0.00
+     ILE C 340  (all)  occ=0.00
+     MET C 341  (all)  occ=0.00
+     VAL C 342  (all)  occ=0.00
+     VAL C 343  (all)  occ=0.00
+     TYR C 344  (all)  occ=0.00
+     PHE C 345  (all)  occ=0.00
+     LYS C 346  (all)  occ=0.00
+     LYS C 347  (all)  occ=0.00
+     LYS C 348  (all)  occ=0.00
+     LYS C 349  (all)  occ=0.00
+     TYR D  19  (all)  occ=0.00
+     THR D  20  (all)  occ=0.00
+     GLY D  21  (all)  occ=0.00
+     LYS D  22  (all)  occ=0.00
+     TYR D  23  (all)  occ=0.00
+     ARG D  24  (all)  occ=0.00
+     GLU D  25  (all)  occ=0.00
+     ASP D  26  (all)  occ=0.00
+     PHE D  27  (all)  occ=0.00
+     GLU D  28  (all)  occ=0.00
+     ILE D  29  (all)  occ=0.00
+     GLU D  30  (all)  occ=0.00
+     VAL D  31  (all)  occ=0.00
+     MET D  32  (all)  occ=0.00
+     ASN D  33  (all)  occ=0.00
+     TYR D  34  (all)  occ=0.00
+     SER D  35  (all)  occ=0.00
+     ILE D  36  (all)  occ=0.00
+     GLU D  37  (all)  occ=0.00
+     GLU D  38  (all)  occ=0.00
+     PHE D  39  (all)  occ=0.00
+     ARG D  40  (all)  occ=0.00
+     GLU D  41  (all)  occ=0.00
+     PHE D  42  (all)  occ=0.00
+     LYS D  43  (all)  occ=0.00
+     THR D  44  (all)  occ=0.00
+     THR D  45  (all)  occ=0.00
+     ASP D  46  (all)  occ=0.00
+     VAL D  47  (all)  occ=0.00
+     GLU D  48  (all)  occ=0.00
+     SER D  49  (all)  occ=0.00
+     VAL D  50  (all)  occ=0.00
+     LEU D  51  (all)  occ=0.00
+     PRO D  52  (all)  occ=0.00
+     PHE D  53  (all)  occ=0.00
+     ARG D  54  (all)  occ=0.00
+     ASP D  55  (all)  occ=0.00
+     SER D  56  (all)  occ=0.00
+     SER D  57  (all)  occ=0.00
+     THR D  58  (all)  occ=0.00
+     PRO D  59  (all)  occ=0.00
+     THR D  60  (all)  occ=0.00
+     TRP D  61  (all)  occ=0.00
+     ILE D  62  (all)  occ=0.00
+     ASN D  63  (all)  occ=0.00
+     ILE D  64  (all)  occ=0.00
+     THR D  65  (all)  occ=0.00
+     GLY D  66  (all)  occ=0.00
+     ILE D  67  (all)  occ=0.00
+     HIS D  68  (all)  occ=0.00
+     ARG D  69  (all)  occ=0.00
+     THR D  70  (all)  occ=0.00
+     ASP D  71  (all)  occ=0.00
+     VAL D  72  (all)  occ=0.00
+     VAL D  73  (all)  occ=0.00
+     GLN D  74  (all)  occ=0.00
+     ARG D  75  (all)  occ=0.00
+     VAL D  76  (all)  occ=0.00
+     GLY D  77  (all)  occ=0.00
+     GLU D  78  (all)  occ=0.00
+     PHE D  79  (all)  occ=0.00
+     PHE D  80  (all)  occ=0.00
+     GLY D  81  (all)  occ=0.00
+     ILE D  82  (all)  occ=0.00
+     HIS D  83  (all)  occ=0.00
+     PRO D  84  (all)  occ=0.00
+     LEU D  85  (all)  occ=0.00
+     VAL D  86  (all)  occ=0.00
+     LEU D  87  (all)  occ=0.00
+     GLU D  88  (all)  occ=0.00
+     ASP D  89  (all)  occ=0.00
+     ILE D  90  (all)  occ=0.00
+     LEU D  91  (all)  occ=0.00
+     ASN D  92  (all)  occ=0.00
+     VAL D  93  (all)  occ=0.00
+     HIS D  94  (all)  occ=0.00
+     GLN D  95  (all)  occ=0.00
+     ARG D  96  (all)  occ=0.00
+     PRO D  97  (all)  occ=0.00
+     LYS D  98  (all)  occ=0.00
+     VAL D  99  (all)  occ=0.00
+     GLU D 100  (all)  occ=0.00
+     PHE D 101  (all)  occ=0.00
+     PHE D 102  (all)  occ=0.00
+     GLU D 103  (all)  occ=0.00
+     ASN D 104  (all)  occ=0.00
+     TYR D 105  (all)  occ=0.00
+     VAL D 106  (all)  occ=0.00
+     PHE D 107  (all)  occ=0.00
+     ILE D 108  (all)  occ=0.00
+     VAL D 109  (all)  occ=0.00
+     LEU D 110  (all)  occ=0.00
+     LYS D 111  (all)  occ=0.00
+     MET D 112  (all)  occ=0.00
+     PHE D 113  (all)  occ=0.00
+     THR D 114  (all)  occ=0.00
+     TYR D 115  (all)  occ=0.00
+     ASP D 116  (all)  occ=0.00
+     LYS D 117  (all)  occ=0.00
+     ASN D 118  (all)  occ=0.00
+     LEU D 119  (all)  occ=0.00
+     HIS D 120  (all)  occ=0.00
+     GLU D 121  (all)  occ=0.00
+     LEU D 122  (all)  occ=0.00
+     GLU D 123  (all)  occ=0.00
+     SER D 124  (all)  occ=0.00
+     GLU D 125  (all)  occ=0.00
+     GLN D 126  (all)  occ=0.00
+     VAL D 127  (all)  occ=0.00
+     SER D 128  (all)  occ=0.00
+     LEU D 129  (all)  occ=0.00
+     ILE D 130  (all)  occ=0.00
+     LEU D 131  (all)  occ=0.00
+     THR D 132  (all)  occ=0.00
+     LYS D 133  (all)  occ=0.00
+     ASN D 134  (all)  occ=0.00
+     CYS D 135  (all)  occ=0.00
+     VAL D 136  (all)  occ=0.00
+     LEU D 137  (all)  occ=0.00
+     MET D 138  (all)  occ=0.00
+     PHE D 139  (all)  occ=0.00
+     GLN D 140  (all)  occ=0.00
+     GLU D 141  (all)  occ=0.00
+     LYS D 142  (all)  occ=0.00
+     ILE D 143  (all)  occ=0.00
+     GLY D 144  (all)  occ=0.00
+     ASP D 145  (all)  occ=0.00
+     VAL D 146  (all)  occ=0.00
+     PHE D 147  (all)  occ=0.00
+     ASP D 148  (all)  occ=0.00
+     PRO D 149  (all)  occ=0.00
+     VAL D 150  (all)  occ=0.00
+     ARG D 151  (all)  occ=0.00
+     GLU D 152  (all)  occ=0.00
+     ARG D 153  (all)  occ=0.00
+     ILE D 154  (all)  occ=0.00
+     ARG D 155  (all)  occ=0.00
+     TYR D 156  (all)  occ=0.00
+     ASN D 157  (all)  occ=0.00
+     ARG D 158  (all)  occ=0.00
+     GLY D 159  (all)  occ=0.00
+     ILE D 160  (all)  occ=0.00
+     ILE D 161  (all)  occ=0.00
+     ARG D 162  (all)  occ=0.00
+     LYS D 163  (all)  occ=0.00
+     LYS D 164  (all)  occ=0.00
+     ARG D 165  (all)  occ=0.00
+     ALA D 166  (all)  occ=0.00
+     ASP D 167  (all)  occ=0.00
+     TYR D 168  (all)  occ=0.00
+     LEU D 169  (all)  occ=0.00
+     LEU D 170  (all)  occ=0.00
+     TYR D 171  (all)  occ=0.00
+     SER D 172  (all)  occ=0.00
+     LEU D 173  (all)  occ=0.00
+     ILE D 174  (all)  occ=0.00
+     ASP D 175  (all)  occ=0.00
+     ALA D 176  (all)  occ=0.00
+     LEU D 177  (all)  occ=0.00
+     VAL D 178  (all)  occ=0.00
+     ASP D 179  (all)  occ=0.00
+     ASP D 180  (all)  occ=0.00
+     TYR D 181  (all)  occ=0.00
+     PHE D 182  (all)  occ=0.00
+     VAL D 183  (all)  occ=0.00
+     LEU D 184  (all)  occ=0.00
+     LEU D 185  (all)  occ=0.00
+     GLU D 186  (all)  occ=0.00
+     LYS D 187  (all)  occ=0.00
+     ILE D 188  (all)  occ=0.00
+     ASP D 189  (all)  occ=0.00
+     ASP D 190  (all)  occ=0.00
+     GLU D 191  (all)  occ=0.00
+     ILE D 192  (all)  occ=0.00
+     ASP D 193  (all)  occ=0.00
+     VAL D 194  (all)  occ=0.00
+     LEU D 195  (all)  occ=0.00
+     GLU D 196  (all)  occ=0.00
+     GLU D 197  (all)  occ=0.00
+     GLU D 198  (all)  occ=0.00
+     VAL D 199  (all)  occ=0.00
+     LEU D 200  (all)  occ=0.00
+     GLU D 201  (all)  occ=0.00
+     ARG D 202  (all)  occ=0.00
+     PRO D 203  (all)  occ=0.00
+     GLU D 204  (all)  occ=0.00
+     LYS D 205  (all)  occ=0.00
+     GLU D 206  (all)  occ=0.00
+     THR D 207  (all)  occ=0.00
+     VAL D 208  (all)  occ=0.00
+     GLN D 209  (all)  occ=0.00
+     ARG D 210  (all)  occ=0.00
+     THR D 211  (all)  occ=0.00
+     HIS D 212  (all)  occ=0.00
+     GLN D 213  (all)  occ=0.00
+     LEU D 214  (all)  occ=0.00
+     LYS D 215  (all)  occ=0.00
+     ARG D 216  (all)  occ=0.00
+     ASN D 217  (all)  occ=0.00
+     LEU D 218  (all)  occ=0.00
+     VAL D 219  (all)  occ=0.00
+     GLU D 220  (all)  occ=0.00
+     LEU D 221  (all)  occ=0.00
+     ARG D 222  (all)  occ=0.00
+     LYS D 223  (all)  occ=0.00
+     THR D 224  (all)  occ=0.00
+     ILE D 225  (all)  occ=0.00
+     TRP D 226  (all)  occ=0.00
+     PRO D 227  (all)  occ=0.00
+     LEU D 228  (all)  occ=0.00
+     ARG D 229  (all)  occ=0.00
+     GLU D 230  (all)  occ=0.00
+     VAL D 231  (all)  occ=0.00
+     LEU D 232  (all)  occ=0.00
+     SER D 233  (all)  occ=0.00
+     SER D 234  (all)  occ=0.00
+     LEU D 235  (all)  occ=0.00
+     TYR D 236  (all)  occ=0.00
+     ARG D 237  (all)  occ=0.00
+     ASP D 238  (all)  occ=0.00
+     VAL D 239  (all)  occ=0.00
+     PRO D 240  (all)  occ=0.00
+     PRO D 241  (all)  occ=0.00
+     LEU D 242  (all)  occ=0.00
+     ILE D 243  (all)  occ=0.00
+     GLU D 244  (all)  occ=0.00
+     LYS D 245  (all)  occ=0.00
+     GLU D 246  (all)  occ=0.00
+     THR D 247  (all)  occ=0.00
+     VAL D 248  (all)  occ=0.00
+     PRO D 249  (all)  occ=0.00
+     TYR D 250  (all)  occ=0.00
+     PHE D 251  (all)  occ=0.00
+     ARG D 252  (all)  occ=0.00
+     ASP D 253  (all)  occ=0.00
+     VAL D 254  (all)  occ=0.00
+     TYR D 255  (all)  occ=0.00
+     ASP D 256  (all)  occ=0.00
+     HIS D 257  (all)  occ=0.00
+     THR D 258  (all)  occ=0.00
+     ILE D 259  (all)  occ=0.00
+     GLN D 260  (all)  occ=0.00
+     ILE D 261  (all)  occ=0.00
+     ALA D 262  (all)  occ=0.00
+     ASP D 263  (all)  occ=0.00
+     THR D 264  (all)  occ=0.00
+     VAL D 265  (all)  occ=0.00
+     GLU D 266  (all)  occ=0.00
+     THR D 267  (all)  occ=0.00
+     PHE D 268  (all)  occ=0.00
+     ARG D 269  (all)  occ=0.00
+     ASP D 270  (all)  occ=0.00
+     ILE D 271  (all)  occ=0.00
+     VAL D 272  (all)  occ=0.00
+     SER D 273  (all)  occ=0.00
+     GLY D 274  (all)  occ=0.00
+     LEU D 275  (all)  occ=0.00
+     LEU D 276  (all)  occ=0.00
+     ASP D 277  (all)  occ=0.00
+     VAL D 278  (all)  occ=0.00
+     TYR D 279  (all)  occ=0.00
+     LEU D 280  (all)  occ=0.00
+     SER D 281  (all)  occ=0.00
+     SER D 282  (all)  occ=0.00
+     VAL D 283  (all)  occ=0.00
+     SER D 284  (all)  occ=0.00
+     ASN D 285  (all)  occ=0.00
+     LYS D 286  (all)  occ=0.00
+     THR D 287  (all)  occ=0.00
+     ASN D 288  (all)  occ=0.00
+     GLU D 289  (all)  occ=0.00
+     VAL D 290  (all)  occ=0.00
+     MET D 291  (all)  occ=0.00
+     LYS D 292  (all)  occ=0.00
+     VAL D 293  (all)  occ=0.00
+     LEU D 294  (all)  occ=0.00
+     THR D 295  (all)  occ=0.00
+     ILE D 296  (all)  occ=0.00
+     ILE D 297  (all)  occ=0.00
+     ALA D 298  (all)  occ=0.00
+     THR D 299  (all)  occ=0.00
+     ILE D 300  (all)  occ=0.00
+     PHE D 301  (all)  occ=0.00
+     MET D 302  (all)  occ=0.00
+     PRO D 303  (all)  occ=0.00
+     LEU D 304  (all)  occ=0.00
+     THR D 305  (all)  occ=0.00
+     PHE D 306  (all)  occ=0.00
+     ILE D 307  (all)  occ=0.00
+     ALA D 308  (all)  occ=0.00
+     GLY D 309  (all)  occ=0.00
+     ILE D 310  (all)  occ=0.00
+     TYR D 311  (all)  occ=0.00
+     GLY D 312  (all)  occ=0.00
+     MET D 313  (all)  occ=0.00
+     ASN D 314  (all)  occ=0.00
+     PHE D 315  (all)  occ=0.00
+     GLU D 316  (all)  occ=0.00
+     TYR D 317  (all)  occ=0.00
+     MET D 318  (all)  occ=0.00
+     PRO D 319  (all)  occ=0.00
+     GLU D 320  (all)  occ=0.00
+     LEU D 321  (all)  occ=0.00
+     ARG D 322  (all)  occ=0.00
+     TRP D 323  (all)  occ=0.00
+     LYS D 324  (all)  occ=0.00
+     TRP D 325  (all)  occ=0.00
+     GLY D 326  (all)  occ=0.00
+     TYR D 327  (all)  occ=0.00
+     PRO D 328  (all)  occ=0.00
+     VAL D 329  (all)  occ=0.00
+     VAL D 330  (all)  occ=0.00
+     LEU D 331  (all)  occ=0.00
+     ALA D 332  (all)  occ=0.00
+     VAL D 333  (all)  occ=0.00
+     MET D 334  (all)  occ=0.00
+     GLY D 335  (all)  occ=0.00
+     VAL D 336  (all)  occ=0.00
+     ILE D 337  (all)  occ=0.00
+     ALA D 338  (all)  occ=0.00
+     VAL D 339  (all)  occ=0.00
+     ILE D 340  (all)  occ=0.00
+     MET D 341  (all)  occ=0.00
+     VAL D 342  (all)  occ=0.00
+     VAL D 343  (all)  occ=0.00
+     TYR D 344  (all)  occ=0.00
+     PHE D 345  (all)  occ=0.00
+     LYS D 346  (all)  occ=0.00
+     LYS D 347  (all)  occ=0.00
+     LYS D 348  (all)  occ=0.00
+     LYS D 349  (all)  occ=0.00
+     TYR E  19  (all)  occ=0.00
+     THR E  20  (all)  occ=0.00
+     GLY E  21  (all)  occ=0.00
+     LYS E  22  (all)  occ=0.00
+     TYR E  23  (all)  occ=0.00
+     ARG E  24  (all)  occ=0.00
+     GLU E  25  (all)  occ=0.00
+     ASP E  26  (all)  occ=0.00
+     PHE E  27  (all)  occ=0.00
+     GLU E  28  (all)  occ=0.00
+     ILE E  29  (all)  occ=0.00
+     GLU E  30  (all)  occ=0.00
+     VAL E  31  (all)  occ=0.00
+     MET E  32  (all)  occ=0.00
+     ASN E  33  (all)  occ=0.00
+     TYR E  34  (all)  occ=0.00
+     SER E  35  (all)  occ=0.00
+     ILE E  36  (all)  occ=0.00
+     GLU E  37  (all)  occ=0.00
+     GLU E  38  (all)  occ=0.00
+     PHE E  39  (all)  occ=0.00
+     ARG E  40  (all)  occ=0.00
+     GLU E  41  (all)  occ=0.00
+     PHE E  42  (all)  occ=0.00
+     LYS E  43  (all)  occ=0.00
+     THR E  44  (all)  occ=0.00
+     THR E  45  (all)  occ=0.00
+     ASP E  46  (all)  occ=0.00
+     VAL E  47  (all)  occ=0.00
+     GLU E  48  (all)  occ=0.00
+     SER E  49  (all)  occ=0.00
+     VAL E  50  (all)  occ=0.00
+     LEU E  51  (all)  occ=0.00
+     PRO E  52  (all)  occ=0.00
+     PHE E  53  (all)  occ=0.00
+     ARG E  54  (all)  occ=0.00
+     ASP E  55  (all)  occ=0.00
+     SER E  56  (all)  occ=0.00
+     SER E  57  (all)  occ=0.00
+     THR E  58  (all)  occ=0.00
+     PRO E  59  (all)  occ=0.00
+     THR E  60  (all)  occ=0.00
+     TRP E  61  (all)  occ=0.00
+     ILE E  62  (all)  occ=0.00
+     ASN E  63  (all)  occ=0.00
+     ILE E  64  (all)  occ=0.00
+     THR E  65  (all)  occ=0.00
+     GLY E  66  (all)  occ=0.00
+     ILE E  67  (all)  occ=0.00
+     HIS E  68  (all)  occ=0.00
+     ARG E  69  (all)  occ=0.00
+     THR E  70  (all)  occ=0.00
+     ASP E  71  (all)  occ=0.00
+     VAL E  72  (all)  occ=0.00
+     VAL E  73  (all)  occ=0.00
+     GLN E  74  (all)  occ=0.00
+     ARG E  75  (all)  occ=0.00
+     VAL E  76  (all)  occ=0.00
+     GLY E  77  (all)  occ=0.00
+     GLU E  78  (all)  occ=0.00
+     PHE E  79  (all)  occ=0.00
+     PHE E  80  (all)  occ=0.00
+     GLY E  81  (all)  occ=0.00
+     ILE E  82  (all)  occ=0.00
+     HIS E  83  (all)  occ=0.00
+     PRO E  84  (all)  occ=0.00
+     LEU E  85  (all)  occ=0.00
+     VAL E  86  (all)  occ=0.00
+     LEU E  87  (all)  occ=0.00
+     GLU E  88  (all)  occ=0.00
+     ASP E  89  (all)  occ=0.00
+     ILE E  90  (all)  occ=0.00
+     LEU E  91  (all)  occ=0.00
+     ASN E  92  (all)  occ=0.00
+     VAL E  93  (all)  occ=0.00
+     HIS E  94  (all)  occ=0.00
+     GLN E  95  (all)  occ=0.00
+     ARG E  96  (all)  occ=0.00
+     PRO E  97  (all)  occ=0.00
+     LYS E  98  (all)  occ=0.00
+     VAL E  99  (all)  occ=0.00
+     GLU E 100  (all)  occ=0.00
+     PHE E 101  (all)  occ=0.00
+     PHE E 102  (all)  occ=0.00
+     GLU E 103  (all)  occ=0.00
+     ASN E 104  (all)  occ=0.00
+     TYR E 105  (all)  occ=0.00
+     VAL E 106  (all)  occ=0.00
+     PHE E 107  (all)  occ=0.00
+     ILE E 108  (all)  occ=0.00
+     VAL E 109  (all)  occ=0.00
+     LEU E 110  (all)  occ=0.00
+     LYS E 111  (all)  occ=0.00
+     MET E 112  (all)  occ=0.00
+     PHE E 113  (all)  occ=0.00
+     THR E 114  (all)  occ=0.00
+     TYR E 115  (all)  occ=0.00
+     ASP E 116  (all)  occ=0.00
+     LYS E 117  (all)  occ=0.00
+     ASN E 118  (all)  occ=0.00
+     LEU E 119  (all)  occ=0.00
+     HIS E 120  (all)  occ=0.00
+     GLU E 121  (all)  occ=0.00
+     LEU E 122  (all)  occ=0.00
+     GLU E 123  (all)  occ=0.00
+     SER E 124  (all)  occ=0.00
+     GLU E 125  (all)  occ=0.00
+     GLN E 126  (all)  occ=0.00
+     VAL E 127  (all)  occ=0.00
+     SER E 128  (all)  occ=0.00
+     LEU E 129  (all)  occ=0.00
+     ILE E 130  (all)  occ=0.00
+     LEU E 131  (all)  occ=0.00
+     THR E 132  (all)  occ=0.00
+     LYS E 133  (all)  occ=0.00
+     ASN E 134  (all)  occ=0.00
+     CYS E 135  (all)  occ=0.00
+     VAL E 136  (all)  occ=0.00
+     LEU E 137  (all)  occ=0.00
+     MET E 138  (all)  occ=0.00
+     PHE E 139  (all)  occ=0.00
+     GLN E 140  (all)  occ=0.00
+     GLU E 141  (all)  occ=0.00
+     LYS E 142  (all)  occ=0.00
+     ILE E 143  (all)  occ=0.00
+     GLY E 144  (all)  occ=0.00
+     ASP E 145  (all)  occ=0.00
+     VAL E 146  (all)  occ=0.00
+     PHE E 147  (all)  occ=0.00
+     ASP E 148  (all)  occ=0.00
+     PRO E 149  (all)  occ=0.00
+     VAL E 150  (all)  occ=0.00
+     ARG E 151  (all)  occ=0.00
+     GLU E 152  (all)  occ=0.00
+     ARG E 153  (all)  occ=0.00
+     ILE E 154  (all)  occ=0.00
+     ARG E 155  (all)  occ=0.00
+     TYR E 156  (all)  occ=0.00
+     ASN E 157  (all)  occ=0.00
+     ARG E 158  (all)  occ=0.00
+     GLY E 159  (all)  occ=0.00
+     ILE E 160  (all)  occ=0.00
+     ILE E 161  (all)  occ=0.00
+     ARG E 162  (all)  occ=0.00
+     LYS E 163  (all)  occ=0.00
+     LYS E 164  (all)  occ=0.00
+     ARG E 165  (all)  occ=0.00
+     ALA E 166  (all)  occ=0.00
+     ASP E 167  (all)  occ=0.00
+     TYR E 168  (all)  occ=0.00
+     LEU E 169  (all)  occ=0.00
+     LEU E 170  (all)  occ=0.00
+     TYR E 171  (all)  occ=0.00
+     SER E 172  (all)  occ=0.00
+     LEU E 173  (all)  occ=0.00
+     ILE E 174  (all)  occ=0.00
+     ASP E 175  (all)  occ=0.00
+     ALA E 176  (all)  occ=0.00
+     LEU E 177  (all)  occ=0.00
+     VAL E 178  (all)  occ=0.00
+     ASP E 179  (all)  occ=0.00
+     ASP E 180  (all)  occ=0.00
+     TYR E 181  (all)  occ=0.00
+     PHE E 182  (all)  occ=0.00
+     VAL E 183  (all)  occ=0.00
+     LEU E 184  (all)  occ=0.00
+     LEU E 185  (all)  occ=0.00
+     GLU E 186  (all)  occ=0.00
+     LYS E 187  (all)  occ=0.00
+     ILE E 188  (all)  occ=0.00
+     ASP E 189  (all)  occ=0.00
+     ASP E 190  (all)  occ=0.00
+     GLU E 191  (all)  occ=0.00
+     ILE E 192  (all)  occ=0.00
+     ASP E 193  (all)  occ=0.00
+     VAL E 194  (all)  occ=0.00
+     LEU E 195  (all)  occ=0.00
+     GLU E 196  (all)  occ=0.00
+     GLU E 197  (all)  occ=0.00
+     GLU E 198  (all)  occ=0.00
+     VAL E 199  (all)  occ=0.00
+     LEU E 200  (all)  occ=0.00
+     GLU E 201  (all)  occ=0.00
+     ARG E 202  (all)  occ=0.00
+     PRO E 203  (all)  occ=0.00
+     GLU E 204  (all)  occ=0.00
+     LYS E 205  (all)  occ=0.00
+     GLU E 206  (all)  occ=0.00
+     THR E 207  (all)  occ=0.00
+     VAL E 208  (all)  occ=0.00
+     GLN E 209  (all)  occ=0.00
+     ARG E 210  (all)  occ=0.00
+     THR E 211  (all)  occ=0.00
+     HIS E 212  (all)  occ=0.00
+     GLN E 213  (all)  occ=0.00
+     LEU E 214  (all)  occ=0.00
+     LYS E 215  (all)  occ=0.00
+     ARG E 216  (all)  occ=0.00
+     ASN E 217  (all)  occ=0.00
+     LEU E 218  (all)  occ=0.00
+     VAL E 219  (all)  occ=0.00
+     GLU E 220  (all)  occ=0.00
+     LEU E 221  (all)  occ=0.00
+     ARG E 222  (all)  occ=0.00
+     LYS E 223  (all)  occ=0.00
+     THR E 224  (all)  occ=0.00
+     ILE E 225  (all)  occ=0.00
+     TRP E 226  (all)  occ=0.00
+     PRO E 227  (all)  occ=0.00
+     LEU E 228  (all)  occ=0.00
+     ARG E 229  (all)  occ=0.00
+     GLU E 230  (all)  occ=0.00
+     VAL E 231  (all)  occ=0.00
+     LEU E 232  (all)  occ=0.00
+     SER E 233  (all)  occ=0.00
+     SER E 234  (all)  occ=0.00
+     LEU E 235  (all)  occ=0.00
+     TYR E 236  (all)  occ=0.00
+     ARG E 237  (all)  occ=0.00
+     ASP E 238  (all)  occ=0.00
+     VAL E 239  (all)  occ=0.00
+     PRO E 240  (all)  occ=0.00
+     PRO E 241  (all)  occ=0.00
+     LEU E 242  (all)  occ=0.00
+     ILE E 243  (all)  occ=0.00
+     GLU E 244  (all)  occ=0.00
+     LYS E 245  (all)  occ=0.00
+     GLU E 246  (all)  occ=0.00
+     THR E 247  (all)  occ=0.00
+     VAL E 248  (all)  occ=0.00
+     PRO E 249  (all)  occ=0.00
+     TYR E 250  (all)  occ=0.00
+     PHE E 251  (all)  occ=0.00
+     ARG E 252  (all)  occ=0.00
+     ASP E 253  (all)  occ=0.00
+     VAL E 254  (all)  occ=0.00
+     TYR E 255  (all)  occ=0.00
+     ASP E 256  (all)  occ=0.00
+     HIS E 257  (all)  occ=0.00
+     THR E 258  (all)  occ=0.00
+     ILE E 259  (all)  occ=0.00
+     GLN E 260  (all)  occ=0.00
+     ILE E 261  (all)  occ=0.00
+     ALA E 262  (all)  occ=0.00
+     ASP E 263  (all)  occ=0.00
+     THR E 264  (all)  occ=0.00
+     VAL E 265  (all)  occ=0.00
+     GLU E 266  (all)  occ=0.00
+     THR E 267  (all)  occ=0.00
+     PHE E 268  (all)  occ=0.00
+     ARG E 269  (all)  occ=0.00
+     ASP E 270  (all)  occ=0.00
+     ILE E 271  (all)  occ=0.00
+     VAL E 272  (all)  occ=0.00
+     SER E 273  (all)  occ=0.00
+     GLY E 274  (all)  occ=0.00
+     LEU E 275  (all)  occ=0.00
+     LEU E 276  (all)  occ=0.00
+     ASP E 277  (all)  occ=0.00
+     VAL E 278  (all)  occ=0.00
+     TYR E 279  (all)  occ=0.00
+     LEU E 280  (all)  occ=0.00
+     SER E 281  (all)  occ=0.00
+     SER E 282  (all)  occ=0.00
+     VAL E 283  (all)  occ=0.00
+     SER E 284  (all)  occ=0.00
+     ASN E 285  (all)  occ=0.00
+     LYS E 286  (all)  occ=0.00
+     THR E 287  (all)  occ=0.00
+     ASN E 288  (all)  occ=0.00
+     GLU E 289  (all)  occ=0.00
+     VAL E 290  (all)  occ=0.00
+     MET E 291  (all)  occ=0.00
+     LYS E 292  (all)  occ=0.00
+     VAL E 293  (all)  occ=0.00
+     LEU E 294  (all)  occ=0.00
+     THR E 295  (all)  occ=0.00
+     ILE E 296  (all)  occ=0.00
+     ILE E 297  (all)  occ=0.00
+     ALA E 298  (all)  occ=0.00
+     THR E 299  (all)  occ=0.00
+     ILE E 300  (all)  occ=0.00
+     PHE E 301  (all)  occ=0.00
+     MET E 302  (all)  occ=0.00
+     PRO E 303  (all)  occ=0.00
+     LEU E 304  (all)  occ=0.00
+     THR E 305  (all)  occ=0.00
+     PHE E 306  (all)  occ=0.00
+     ILE E 307  (all)  occ=0.00
+     ALA E 308  (all)  occ=0.00
+     GLY E 309  (all)  occ=0.00
+     ILE E 310  (all)  occ=0.00
+     TYR E 311  (all)  occ=0.00
+     GLY E 312  (all)  occ=0.00
+     MET E 313  (all)  occ=0.00
+     ASN E 314  (all)  occ=0.00
+     PHE E 315  (all)  occ=0.00
+     GLU E 316  (all)  occ=0.00
+     TYR E 317  (all)  occ=0.00
+     MET E 318  (all)  occ=0.00
+     PRO E 319  (all)  occ=0.00
+     GLU E 320  (all)  occ=0.00
+     LEU E 321  (all)  occ=0.00
+     ARG E 322  (all)  occ=0.00
+     TRP E 323  (all)  occ=0.00
+     LYS E 324  (all)  occ=0.00
+     TRP E 325  (all)  occ=0.00
+     GLY E 326  (all)  occ=0.00
+     TYR E 327  (all)  occ=0.00
+     PRO E 328  (all)  occ=0.00
+     VAL E 329  (all)  occ=0.00
+     VAL E 330  (all)  occ=0.00
+     LEU E 331  (all)  occ=0.00
+     ALA E 332  (all)  occ=0.00
+     VAL E 333  (all)  occ=0.00
+     MET E 334  (all)  occ=0.00
+     GLY E 335  (all)  occ=0.00
+     VAL E 336  (all)  occ=0.00
+     ILE E 337  (all)  occ=0.00
+     ALA E 338  (all)  occ=0.00
+     VAL E 339  (all)  occ=0.00
+     ILE E 340  (all)  occ=0.00
+     MET E 341  (all)  occ=0.00
+     VAL E 342  (all)  occ=0.00
+     VAL E 343  (all)  occ=0.00
+     TYR E 344  (all)  occ=0.00
+     PHE E 345  (all)  occ=0.00
+     LYS E 346  (all)  occ=0.00
+     LYS E 347  (all)  occ=0.00
+     LYS E 348  (all)  occ=0.00
+     LYS E 349  (all)  occ=0.00
+
+============================= Geometry restraints =============================
+
+
+                        ----------Bond lengths----------                       
+
+  atoms                 ideal   model   delta   sigma   slack  residual   deviation
+   C  45  THR  C      
+   C  46  ASP  N           1.33     1.40    -0.07  1.40e-02  2.52e+01   5.0*sigma
+   A 138  MET  CA     
+   A 138  MET  C           1.52     1.44     0.09  2.10e-02  1.73e+01   4.2*sigma
+   B 274  GLY  CA     
+   B 274  GLY  C           1.52     1.44     0.07  1.80e-02  1.68e+01   4.1*sigma
+   D  77  GLY  CA     
+   D  77  GLY  C           1.52     1.44     0.07  1.80e-02  1.64e+01   4.0*sigma
+
+  Min. delta:    0.000 (Z=  0.000)
+  Max. delta:    0.087 (Z=  5.024)
+  Mean delta:    0.021 (Z=  0.993)
+
+                        ----------Bond angles----------                        
+
+  atoms                   ideal    model    delta   sigma  residual   deviation
+   A 240  PRO  CA     
+   A 240  PRO  C      
+   A 241  PRO  N         116.90   129.57   -12.67  1.50e+00  7.14e+01   8.4*sigma
+   B 240  PRO  CA     
+   B 240  PRO  C      
+   B 241  PRO  N         116.90   129.48   -12.58  1.50e+00  7.04e+01   8.4*sigma
+   B 301  PHE  CA     
+   B 301  PHE  CB     
+   B 301  PHE  CG        113.80   105.65     8.15  1.00e+00  6.64e+01   8.1*sigma
+   E 240  PRO  CA     
+   E 240  PRO  C      
+   E 241  PRO  N         116.90   128.85   -11.95  1.50e+00  6.35e+01   8.0*sigma
+   B  92  ASN  CA     
+   B  92  ASN  CB     
+   B  92  ASN  CG        112.60   120.40    -7.80  1.00e+00  6.08e+01   7.8*sigma
+   A  79  PHE  CA     
+   A  79  PHE  CB     
+   A  79  PHE  CG        113.80   106.34     7.46  1.00e+00  5.56e+01   7.5*sigma
+   C 240  PRO  CA     
+   C 240  PRO  C      
+   C 241  PRO  N         116.90   127.86   -10.96  1.50e+00  5.34e+01   7.3*sigma
+   B 238  ASP  C      
+   B 239  VAL  N      
+   B 239  VAL  CA        121.70   134.52   -12.82  1.80e+00  5.07e+01   7.1*sigma
+   C  46  ASP  C      
+   C  47  VAL  N      
+   C  47  VAL  CA        121.70   134.32   -12.62  1.80e+00  4.92e+01   7.0*sigma
+   B  71  ASP  CA     
+   B  71  ASP  CB     
+   B  71  ASP  CG        112.60   119.50    -6.90  1.00e+00  4.76e+01   6.9*sigma
+   B 157  ASN  CA     
+   B 157  ASN  CB     
+   B 157  ASN  CG        112.60   119.40    -6.80  1.00e+00  4.63e+01   6.8*sigma
+   C 102  PHE  CA     
+   C 102  PHE  CB     
+   C 102  PHE  CG        113.80   107.27     6.53  1.00e+00  4.26e+01   6.5*sigma
+   B 212  HIS  CA     
+   B 212  HIS  CB     
+   B 212  HIS  CG        113.80   107.29     6.51  1.00e+00  4.24e+01   6.5*sigma
+   A 347  LYS  N      
+   A 347  LYS  CA     
+   A 347  LYS  C         111.00    93.20    17.80  2.80e+00  4.04e+01   6.4*sigma
+   D 119  LEU  N      
+   D 119  LEU  CA     
+   D 119  LEU  C         111.00    93.30    17.70  2.80e+00  3.99e+01   6.3*sigma
+   A 238  ASP  C      
+   A 239  VAL  N      
+   A 239  VAL  CA        121.70   133.07   -11.37  1.80e+00  3.99e+01   6.3*sigma
+   D 120  HIS  C      
+   D 121  GLU  N      
+   D 121  GLU  CA        121.70   132.92   -11.22  1.80e+00  3.89e+01   6.2*sigma
+   D 148  ASP  CA     
+   D 148  ASP  C      
+   D 149  PRO  N         116.90   126.08    -9.18  1.50e+00  3.75e+01   6.1*sigma
+   A 226  TRP  CA     
+   A 226  TRP  C      
+   A 227  PRO  N         116.90   126.01    -9.11  1.50e+00  3.69e+01   6.1*sigma
+   B 345  PHE  CA     
+   B 345  PHE  CB     
+   B 345  PHE  CG        113.80   107.76     6.04  1.00e+00  3.65e+01   6.0*sigma
+   D 345  PHE  CA     
+   D 345  PHE  CB     
+   D 345  PHE  CG        113.80   107.79     6.01  1.00e+00  3.61e+01   6.0*sigma
+   D 240  PRO  CA     
+   D 240  PRO  C      
+   D 241  PRO  N         116.90   125.81    -8.91  1.50e+00  3.53e+01   5.9*sigma
+   A  80  PHE  CA     
+   A  80  PHE  CB     
+   A  80  PHE  CG        113.80   107.87     5.93  1.00e+00  3.51e+01   5.9*sigma
+   B 347  LYS  N      
+   B 347  LYS  CA     
+   B 347  LYS  CB        110.50   120.52   -10.02  1.70e+00  3.48e+01   5.9*sigma
+   C 226  TRP  CB     
+   C 226  TRP  CG     
+   C 226  TRP  CD2       126.80   134.99    -8.19  1.40e+00  3.42e+01   5.8*sigma
+   C 226  TRP  CA     
+   C 226  TRP  C      
+   C 227  PRO  N         116.90   125.66    -8.76  1.50e+00  3.41e+01   5.8*sigma
+   E 226  TRP  CA     
+   E 226  TRP  C      
+   E 227  PRO  N         116.90   125.59    -8.69  1.50e+00  3.36e+01   5.8*sigma
+   B  79  PHE  CA     
+   B  79  PHE  CB     
+   B  79  PHE  CG        113.80   108.07     5.73  1.00e+00  3.29e+01   5.7*sigma
+   A 193  ASP  CA     
+   A 193  ASP  CB     
+   A 193  ASP  CG        112.60   118.33    -5.73  1.00e+00  3.28e+01   5.7*sigma
+   E 238  ASP  C      
+   E 239  VAL  N      
+   E 239  VAL  CA        121.70   131.95   -10.25  1.80e+00  3.25e+01   5.7*sigma
+   B 327  TYR  CA     
+   B 327  TYR  C      
+   B 328  PRO  N         116.90   125.36    -8.46  1.50e+00  3.18e+01   5.6*sigma
+   A 148  ASP  CA     
+   A 148  ASP  C      
+   A 149  PRO  N         116.90   125.24    -8.34  1.50e+00  3.09e+01   5.6*sigma
+   D 226  TRP  CA     
+   D 226  TRP  C      
+   D 227  PRO  N         116.90   125.18    -8.28  1.50e+00  3.04e+01   5.5*sigma
+   C 120  HIS  C      
+   C 121  GLU  N      
+   C 121  GLU  CA        121.70   131.58    -9.88  1.80e+00  3.01e+01   5.5*sigma
+   D  42  PHE  CA     
+   D  42  PHE  CB     
+   D  42  PHE  CG        113.80   119.28    -5.48  1.00e+00  3.00e+01   5.5*sigma
+   B 175  ASP  CA     
+   B 175  ASP  CB     
+   B 175  ASP  CG        112.60   117.99    -5.39  1.00e+00  2.91e+01   5.4*sigma
+   B 302  MET  CA     
+   B 302  MET  C      
+   B 303  PRO  N         116.90   124.92    -8.02  1.50e+00  2.86e+01   5.3*sigma
+   B 111  LYS  C      
+   B 112  MET  N      
+   B 112  MET  CA        121.70   131.32    -9.62  1.80e+00  2.85e+01   5.3*sigma
+   B  23  TYR  C      
+   B  24  ARG  N      
+   B  24  ARG  CA        121.70   131.30    -9.60  1.80e+00  2.84e+01   5.3*sigma
+   E 157  ASN  CA     
+   E 157  ASN  CB     
+   E 157  ASN  CG        112.60   117.93    -5.33  1.00e+00  2.84e+01   5.3*sigma
+   A  67  ILE  N      
+   A  67  ILE  CA     
+   A  67  ILE  C         111.00   125.83   -14.83  2.80e+00  2.81e+01   5.3*sigma
+   D 301  PHE  CA     
+   D 301  PHE  CB     
+   D 301  PHE  CG        113.80   108.57     5.23  1.00e+00  2.74e+01   5.2*sigma
+   E  51  LEU  CA     
+   E  51  LEU  C      
+   E  52  PRO  N         116.90   124.73    -7.83  1.50e+00  2.73e+01   5.2*sigma
+   C 301  PHE  CA     
+   C 301  PHE  CB     
+   C 301  PHE  CG        113.80   108.66     5.14  1.00e+00  2.64e+01   5.1*sigma
+   C 118  ASN  C      
+   C 119  LEU  N      
+   C 119  LEU  CA        121.70   130.92    -9.22  1.80e+00  2.63e+01   5.1*sigma
+   E 182  PHE  CA     
+   E 182  PHE  CB     
+   E 182  PHE  CG        113.80   108.68     5.12  1.00e+00  2.62e+01   5.1*sigma
+   E 345  PHE  C      
+   E 346  LYS  N      
+   E 346  LYS  CA        121.70   130.87    -9.17  1.80e+00  2.60e+01   5.1*sigma
+   A 301  PHE  CA     
+   A 301  PHE  CB     
+   A 301  PHE  CG        113.80   108.71     5.09  1.00e+00  2.59e+01   5.1*sigma
+   E 301  PHE  CA     
+   E 301  PHE  CB     
+   E 301  PHE  CG        113.80   108.71     5.09  1.00e+00  2.59e+01   5.1*sigma
+   D  51  LEU  CA     
+   D  51  LEU  C      
+   D  52  PRO  N         116.90   124.37    -7.47  1.50e+00  2.48e+01   5.0*sigma
+   A 257  HIS  CD2    
+   A 257  HIS  NE2    
+   A 257  HIS  CE1       109.00   104.05     4.95  1.00e+00  2.45e+01   4.9*sigma
+   A 311  TYR  CA     
+   A 311  TYR  CB     
+   A 311  TYR  CG        113.90   105.02     8.88  1.80e+00  2.43e+01   4.9*sigma
+   E  25  GLU  C      
+   E  26  ASP  N      
+   E  26  ASP  CA        121.70   130.52    -8.82  1.80e+00  2.40e+01   4.9*sigma
+   A 182  PHE  CA     
+   A 182  PHE  CB     
+   A 182  PHE  CG        113.80   108.90     4.90  1.00e+00  2.40e+01   4.9*sigma
+   A 318  MET  CA     
+   A 318  MET  C      
+   A 319  PRO  N         116.90   124.23    -7.33  1.50e+00  2.39e+01   4.9*sigma
+   B  75  ARG  C      
+   B  75  ARG  CA     
+   B  75  ARG  CB        110.10   119.37    -9.27  1.90e+00  2.38e+01   4.9*sigma
+   C 101  PHE  CA     
+   C 101  PHE  CB     
+   C 101  PHE  CG        113.80   108.92     4.88  1.00e+00  2.38e+01   4.9*sigma
+   A 248  VAL  CA     
+   A 248  VAL  C      
+   A 249  PRO  N         116.90   124.15    -7.25  1.50e+00  2.34e+01   4.8*sigma
+   D 193  ASP  CA     
+   D 193  ASP  CB     
+   D 193  ASP  CG        112.60   117.42    -4.82  1.00e+00  2.32e+01   4.8*sigma
+   B 226  TRP  CB     
+   B 226  TRP  CG     
+   B 226  TRP  CD2       126.80   133.48    -6.68  1.40e+00  2.28e+01   4.8*sigma
+   C 302  MET  CA     
+   C 302  MET  C      
+   C 303  PRO  N         116.90   124.06    -7.16  1.50e+00  2.28e+01   4.8*sigma
+   B 182  PHE  CA     
+   B 182  PHE  CB     
+   B 182  PHE  CG        113.80   109.05     4.75  1.00e+00  2.26e+01   4.8*sigma
+   B  66  GLY  N      
+   B  66  GLY  CA     
+   B  66  GLY  C         113.30   127.07   -13.77  2.90e+00  2.25e+01   4.7*sigma
+   C 226  TRP  CB     
+   C 226  TRP  CG     
+   C 226  TRP  CD1       126.90   119.80     7.10  1.50e+00  2.24e+01   4.7*sigma
+   D 134  ASN  CA     
+   D 134  ASN  CB     
+   D 134  ASN  CG        112.60   107.87     4.73  1.00e+00  2.24e+01   4.7*sigma
+   D 257  HIS  CD2    
+   D 257  HIS  NE2    
+   D 257  HIS  CE1       109.00   104.29     4.71  1.00e+00  2.22e+01   4.7*sigma
+   C 257  HIS  CD2    
+   C 257  HIS  NE2    
+   C 257  HIS  CE1       109.00   104.32     4.68  1.00e+00  2.19e+01   4.7*sigma
+   B 148  ASP  CA     
+   B 148  ASP  C      
+   B 149  PRO  N         116.90   123.92    -7.02  1.50e+00  2.19e+01   4.7*sigma
+   C 315  PHE  CA     
+   C 315  PHE  CB     
+   C 315  PHE  CG        113.80   109.16     4.64  1.00e+00  2.15e+01   4.6*sigma
+   B  83  HIS  CD2    
+   B  83  HIS  NE2    
+   B  83  HIS  CE1       109.00   104.38     4.62  1.00e+00  2.13e+01   4.6*sigma
+   E 302  MET  CA     
+   E 302  MET  C      
+   E 303  PRO  N         116.90   123.82    -6.92  1.50e+00  2.13e+01   4.6*sigma
+   C 273  SER  C      
+   C 274  GLY  N      
+   C 274  GLY  CA        121.70   113.43     8.27  1.80e+00  2.11e+01   4.6*sigma
+   C 167  ASP  CA     
+   C 167  ASP  CB     
+   C 167  ASP  CG        112.60   117.19    -4.59  1.00e+00  2.10e+01   4.6*sigma
+   E 147  PHE  CA     
+   E 147  PHE  CB     
+   E 147  PHE  CG        113.80   109.22     4.58  1.00e+00  2.10e+01   4.6*sigma
+   A 212  HIS  CD2    
+   A 212  HIS  NE2    
+   A 212  HIS  CE1       109.00   104.44     4.56  1.00e+00  2.08e+01   4.6*sigma
+   D 102  PHE  CA     
+   D 102  PHE  CB     
+   D 102  PHE  CG        113.80   109.25     4.55  1.00e+00  2.07e+01   4.5*sigma
+   C 223  LYS  N      
+   C 223  LYS  CA     
+   C 223  LYS  CB        110.50   118.23    -7.73  1.70e+00  2.07e+01   4.5*sigma
+   A  68  HIS  CD2    
+   A  68  HIS  NE2    
+   A  68  HIS  CE1       109.00   104.46     4.54  1.00e+00  2.06e+01   4.5*sigma
+   E 327  TYR  CA     
+   E 327  TYR  C      
+   E 328  PRO  N         116.90   123.69    -6.79  1.50e+00  2.05e+01   4.5*sigma
+   B 240  PRO  N      
+   B 240  PRO  CA     
+   B 240  PRO  C         112.10   123.34   -11.24  2.50e+00  2.02e+01   4.5*sigma
+   B  93  VAL  N      
+   B  93  VAL  CA     
+   B  93  VAL  CB        111.50   119.14    -7.64  1.70e+00  2.02e+01   4.5*sigma
+   E  58  THR  CA     
+   E  58  THR  C      
+   E  59  PRO  N         116.90   123.57    -6.67  1.50e+00  1.98e+01   4.4*sigma
+   D  43  LYS  N      
+   D  43  LYS  CA     
+   D  43  LYS  C         111.00    98.61    12.39  2.80e+00  1.96e+01   4.4*sigma
+   C 119  LEU  C      
+   C 120  HIS  N      
+   C 120  HIS  CA        121.70   129.65    -7.95  1.80e+00  1.95e+01   4.4*sigma
+   E 212  HIS  CA     
+   E 212  HIS  CB     
+   E 212  HIS  CG        113.80   118.20    -4.40  1.00e+00  1.94e+01   4.4*sigma
+   C 120  HIS  CD2    
+   C 120  HIS  NE2    
+   C 120  HIS  CE1       109.00   104.61     4.39  1.00e+00  1.93e+01   4.4*sigma
+   A 120  HIS  CD2    
+   A 120  HIS  NE2    
+   A 120  HIS  CE1       109.00   104.62     4.38  1.00e+00  1.92e+01   4.4*sigma
+   C 346  LYS  C      
+   C 347  LYS  N      
+   C 347  LYS  CA        121.70   129.58    -7.88  1.80e+00  1.92e+01   4.4*sigma
+   C 327  TYR  CA     
+   C 327  TYR  C      
+   C 328  PRO  N         116.90   123.46    -6.56  1.50e+00  1.91e+01   4.4*sigma
+   B 120  HIS  CD2    
+   B 120  HIS  NE2    
+   B 120  HIS  CE1       109.00   104.64     4.36  1.00e+00  1.90e+01   4.4*sigma
+   E 248  VAL  CA     
+   E 248  VAL  C      
+   E 249  PRO  N         116.90   123.43    -6.53  1.50e+00  1.89e+01   4.4*sigma
+   B  94  HIS  CD2    
+   B  94  HIS  NE2    
+   B  94  HIS  CE1       109.00   104.65     4.35  1.00e+00  1.89e+01   4.4*sigma
+   B  65  THR  CA     
+   B  65  THR  C      
+   B  66  GLY  N         116.20   124.89    -8.69  2.00e+00  1.89e+01   4.3*sigma
+   A 315  PHE  CA     
+   A 315  PHE  CB     
+   A 315  PHE  CG        113.80   109.46     4.34  1.00e+00  1.88e+01   4.3*sigma
+   A 317  TYR  C      
+   A 318  MET  N      
+   A 318  MET  CA        121.70   129.49    -7.79  1.80e+00  1.87e+01   4.3*sigma
+   E  26  ASP  CA     
+   E  26  ASP  CB     
+   E  26  ASP  CG        112.60   116.92    -4.32  1.00e+00  1.86e+01   4.3*sigma
+   E 148  ASP  CA     
+   E 148  ASP  C      
+   E 149  PRO  N         116.90   123.37    -6.47  1.50e+00  1.86e+01   4.3*sigma
+   C  53  PHE  CA     
+   C  53  PHE  CB     
+   C  53  PHE  CG        113.80   109.49     4.31  1.00e+00  1.86e+01   4.3*sigma
+   C  62  ILE  N      
+   C  62  ILE  CA     
+   C  62  ILE  C         111.00    98.93    12.07  2.80e+00  1.86e+01   4.3*sigma
+   B  68  HIS  CD2    
+   B  68  HIS  NE2    
+   B  68  HIS  CE1       109.00   104.69     4.31  1.00e+00  1.86e+01   4.3*sigma
+   D 345  PHE  C      
+   D 346  LYS  N      
+   D 346  LYS  CA        121.70   129.45    -7.75  1.80e+00  1.85e+01   4.3*sigma
+   D  94  HIS  CD2    
+   D  94  HIS  NE2    
+   D  94  HIS  CE1       109.00   104.71     4.29  1.00e+00  1.84e+01   4.3*sigma
+   E 120  HIS  CD2    
+   E 120  HIS  NE2    
+   E 120  HIS  CE1       109.00   104.71     4.29  1.00e+00  1.84e+01   4.3*sigma
+   B 273  SER  C      
+   B 274  GLY  N      
+   B 274  GLY  CA        121.70   113.98     7.72  1.80e+00  1.84e+01   4.3*sigma
+   E 204  GLU  C      
+   E 205  LYS  N      
+   E 205  LYS  CA        121.70   129.41    -7.71  1.80e+00  1.84e+01   4.3*sigma
+   E 102  PHE  N      
+   E 102  PHE  CA     
+   E 102  PHE  CB        110.50   117.76    -7.26  1.70e+00  1.82e+01   4.3*sigma
+   D 256  ASP  CA     
+   D 256  ASP  CB     
+   D 256  ASP  CG        112.60   116.86    -4.26  1.00e+00  1.82e+01   4.3*sigma
+   B  27  PHE  CA     
+   B  27  PHE  CB     
+   B  27  PHE  CG        113.80   118.06    -4.26  1.00e+00  1.82e+01   4.3*sigma
+   C 153  ARG  O      
+   C 153  ARG  C      
+   C 154  ILE  N         123.00   116.20     6.80  1.60e+00  1.80e+01   4.2*sigma
+   B  83  HIS  CA     
+   B  83  HIS  CB     
+   B  83  HIS  CG        113.80   118.04    -4.24  1.00e+00  1.80e+01   4.2*sigma
+   C  51  LEU  CA     
+   C  51  LEU  C      
+   C  52  PRO  N         116.90   123.26    -6.36  1.50e+00  1.80e+01   4.2*sigma
+   B 201  GLU  C      
+   B 202  ARG  N      
+   B 202  ARG  CA        121.70   129.33    -7.63  1.80e+00  1.80e+01   4.2*sigma
+   B  31  VAL  N      
+   B  31  VAL  CA     
+   B  31  VAL  C         111.00    99.16    11.84  2.80e+00  1.79e+01   4.2*sigma
+   C  43  LYS  N      
+   C  43  LYS  CA     
+   C  43  LYS  C         111.00    99.16    11.84  2.80e+00  1.79e+01   4.2*sigma
+   A  83  HIS  CD2    
+   A  83  HIS  NE2    
+   A  83  HIS  CE1       109.00   104.77     4.23  1.00e+00  1.79e+01   4.2*sigma
+   C 139  PHE  CA     
+   C 139  PHE  CB     
+   C 139  PHE  CG        113.80   109.58     4.22  1.00e+00  1.78e+01   4.2*sigma
+   B 136  VAL  N      
+   B 136  VAL  CA     
+   B 136  VAL  C         111.00    99.20    11.80  2.80e+00  1.77e+01   4.2*sigma
+   E 138  MET  N      
+   E 138  MET  CA     
+   E 138  MET  C         111.00    99.21    11.79  2.80e+00  1.77e+01   4.2*sigma
+   E  64  ILE  N      
+   E  64  ILE  CA     
+   E  64  ILE  C         111.00    99.23    11.77  2.80e+00  1.77e+01   4.2*sigma
+   E  68  HIS  CD2    
+   E  68  HIS  NE2    
+   E  68  HIS  CE1       109.00   104.80     4.20  1.00e+00  1.77e+01   4.2*sigma
+   C 345  PHE  CA     
+   C 345  PHE  CB     
+   C 345  PHE  CG        113.80   109.60     4.20  1.00e+00  1.76e+01   4.2*sigma
+   C 263  ASP  N      
+   C 263  ASP  CA     
+   C 263  ASP  CB        110.50   103.37     7.13  1.70e+00  1.76e+01   4.2*sigma
+   C  94  HIS  CD2    
+   C  94  HIS  NE2    
+   C  94  HIS  CE1       109.00   104.80     4.20  1.00e+00  1.76e+01   4.2*sigma
+   B 226  TRP  CA     
+   B 226  TRP  C      
+   B 227  PRO  N         116.90   123.18    -6.28  1.50e+00  1.75e+01   4.2*sigma
+   D  42  PHE  N      
+   D  42  PHE  CA     
+   D  42  PHE  C         111.00    99.29    11.71  2.80e+00  1.75e+01   4.2*sigma
+   A  94  HIS  CD2    
+   A  94  HIS  NE2    
+   A  94  HIS  CE1       109.00   104.82     4.18  1.00e+00  1.75e+01   4.2*sigma
+   A  61  TRP  CB     
+   A  61  TRP  CG     
+   A  61  TRP  CD2       126.80   120.96     5.84  1.40e+00  1.74e+01   4.2*sigma
+   C  68  HIS  CD2    
+   C  68  HIS  NE2    
+   C  68  HIS  CE1       109.00   104.85     4.15  1.00e+00  1.72e+01   4.2*sigma
+   A  67  ILE  O      
+   A  67  ILE  C      
+   A  68  HIS  N         123.00   116.36     6.64  1.60e+00  1.72e+01   4.1*sigma
+   C 182  PHE  CA     
+   C 182  PHE  CB     
+   C 182  PHE  CG        113.80   109.65     4.15  1.00e+00  1.72e+01   4.1*sigma
+   C 238  ASP  C      
+   C 239  VAL  N      
+   C 239  VAL  CA        121.70   129.15    -7.45  1.80e+00  1.71e+01   4.1*sigma
+   D  68  HIS  CD2    
+   D  68  HIS  NE2    
+   D  68  HIS  CE1       109.00   104.88     4.12  1.00e+00  1.70e+01   4.1*sigma
+   A  71  ASP  CA     
+   A  71  ASP  CB     
+   A  71  ASP  CG        112.60   116.72    -4.12  1.00e+00  1.70e+01   4.1*sigma
+   A 263  ASP  N      
+   A 263  ASP  CA     
+   A 263  ASP  CB        110.50   103.50     7.00  1.70e+00  1.70e+01   4.1*sigma
+   A 302  MET  CA     
+   A 302  MET  C      
+   A 303  PRO  N         116.90   123.08    -6.18  1.50e+00  1.70e+01   4.1*sigma
+   C 119  LEU  N      
+   C 119  LEU  CA     
+   C 119  LEU  C         111.00    99.47    11.53  2.80e+00  1.69e+01   4.1*sigma
+   D 212  HIS  CD2    
+   D 212  HIS  NE2    
+   D 212  HIS  CE1       109.00   104.90     4.10  1.00e+00  1.68e+01   4.1*sigma
+   D 302  MET  CA     
+   D 302  MET  C      
+   D 303  PRO  N         116.90   123.05    -6.15  1.50e+00  1.68e+01   4.1*sigma
+   B 122  LEU  N      
+   B 122  LEU  CA     
+   B 122  LEU  C         111.00    99.52    11.48  2.80e+00  1.68e+01   4.1*sigma
+   C  43  LYS  C      
+   C  43  LYS  CA     
+   C  43  LYS  CB        110.10   102.34     7.76  1.90e+00  1.67e+01   4.1*sigma
+   B 226  TRP  CB     
+   B 226  TRP  CG     
+   B 226  TRP  CD1       126.90   120.78     6.12  1.50e+00  1.67e+01   4.1*sigma
+   A 347  LYS  N      
+   A 347  LYS  CA     
+   A 347  LYS  CB        110.50   117.42    -6.92  1.70e+00  1.66e+01   4.1*sigma
+   C  83  HIS  CD2    
+   C  83  HIS  NE2    
+   C  83  HIS  CE1       109.00   104.93     4.07  1.00e+00  1.65e+01   4.1*sigma
+   E 212  HIS  CD2    
+   E 212  HIS  NE2    
+   E 212  HIS  CE1       109.00   104.94     4.06  1.00e+00  1.65e+01   4.1*sigma
+   A  43  LYS  N      
+   A  43  LYS  CA     
+   A  43  LYS  C         111.00    99.66    11.34  2.80e+00  1.64e+01   4.0*sigma
+   B  50  VAL  O      
+   B  50  VAL  C      
+   B  51  LEU  N         123.00   116.55     6.45  1.60e+00  1.62e+01   4.0*sigma
+   D 140  GLN  N      
+   D 140  GLN  CA     
+   D 140  GLN  C         111.00    99.73    11.27  2.80e+00  1.62e+01   4.0*sigma
+   D 138  MET  N      
+   D 138  MET  CA     
+   D 138  MET  C         111.00    99.73    11.27  2.80e+00  1.62e+01   4.0*sigma
+   D 246  GLU  C      
+   D 246  GLU  CA     
+   D 246  GLU  CB        110.10   117.75    -7.65  1.90e+00  1.62e+01   4.0*sigma
+   D 158  ARG  N      
+   D 158  ARG  CA     
+   D 158  ARG  CB        110.50   117.33    -6.83  1.70e+00  1.61e+01   4.0*sigma
+   D  46  ASP  CA     
+   D  46  ASP  CB     
+   D  46  ASP  CG        112.60   108.58     4.02  1.00e+00  1.61e+01   4.0*sigma
+   E 257  HIS  CD2    
+   E 257  HIS  NE2    
+   E 257  HIS  CE1       109.00   104.99     4.01  1.00e+00  1.61e+01   4.0*sigma
+
+  Min. delta:    0.000 (Z=  0.000)
+  Max. delta:   17.797 (Z=  8.450)
+  Mean delta:    2.339 (Z=  1.255)
+
+                      ----------Dihedral angles----------                      
+
+  atoms                   ideal    model    delta   sigma  residual   deviation
+   E 237  ARG  CD     
+   E 237  ARG  NE     
+   E 237  ARG  CZ     
+   E 237  ARG  NH1         0.00  -179.16   179.16  1.00e+01  1.92e+02  17.9*sigma
+   E 269  ARG  CD     
+   E 269  ARG  NE     
+   E 269  ARG  CZ     
+   E 269  ARG  NH1         0.00  -178.68   178.68  1.00e+01  1.92e+02  17.9*sigma
+   E 165  ARG  CD     
+   E 165  ARG  NE     
+   E 165  ARG  CZ     
+   E 165  ARG  NH1         0.00   178.60  -178.60  1.00e+01  1.92e+02  17.9*sigma
+   A 216  ARG  CD     
+   A 216  ARG  NE     
+   A 216  ARG  CZ     
+   A 216  ARG  NH1         0.00  -178.28   178.28  1.00e+01  1.92e+02  17.8*sigma
+   D 216  ARG  CD     
+   D 216  ARG  NE     
+   D 216  ARG  CZ     
+   D 216  ARG  NH1         0.00  -177.99   177.99  1.00e+01  1.92e+02  17.8*sigma
+   B 237  ARG  CD     
+   B 237  ARG  NE     
+   B 237  ARG  CZ     
+   B 237  ARG  NH1         0.00   177.92  -177.92  1.00e+01  1.92e+02  17.8*sigma
+   E 216  ARG  CD     
+   E 216  ARG  NE     
+   E 216  ARG  CZ     
+   E 216  ARG  NH1         0.00  -177.37   177.37  1.00e+01  1.92e+02  17.7*sigma
+   C 269  ARG  CD     
+   C 269  ARG  NE     
+   C 269  ARG  CZ     
+   C 269  ARG  NH1         0.00   177.07  -177.07  1.00e+01  1.92e+02  17.7*sigma
+   D 210  ARG  CD     
+   D 210  ARG  NE     
+   D 210  ARG  CZ     
+   D 210  ARG  NH1         0.00   176.96  -176.96  1.00e+01  1.92e+02  17.7*sigma
+   A 210  ARG  CD     
+   A 210  ARG  NE     
+   A 210  ARG  CZ     
+   A 210  ARG  NH1         0.00  -176.86   176.86  1.00e+01  1.92e+02  17.7*sigma
+   D 322  ARG  CD     
+   D 322  ARG  NE     
+   D 322  ARG  CZ     
+   D 322  ARG  NH1         0.00   176.04  -176.04  1.00e+01  1.92e+02  17.6*sigma
+   C 322  ARG  CD     
+   C 322  ARG  NE     
+   C 322  ARG  CZ     
+   C 322  ARG  NH1         0.00   175.77  -175.77  1.00e+01  1.92e+02  17.6*sigma
+   A 322  ARG  CD     
+   A 322  ARG  NE     
+   A 322  ARG  CZ     
+   A 322  ARG  NH1         0.00  -175.55   175.55  1.00e+01  1.92e+02  17.6*sigma
+   E 210  ARG  CD     
+   E 210  ARG  NE     
+   E 210  ARG  CZ     
+   E 210  ARG  NH1         0.00  -175.42   175.42  1.00e+01  1.92e+02  17.5*sigma
+   B 216  ARG  CD     
+   B 216  ARG  NE     
+   B 216  ARG  CZ     
+   B 216  ARG  NH1         0.00  -175.30   175.30  1.00e+01  1.92e+02  17.5*sigma
+   A 269  ARG  CD     
+   A 269  ARG  NE     
+   A 269  ARG  CZ     
+   A 269  ARG  NH1         0.00  -174.85   174.85  1.00e+01  1.92e+02  17.5*sigma
+   B 210  ARG  CD     
+   B 210  ARG  NE     
+   B 210  ARG  CZ     
+   B 210  ARG  NH1         0.00  -174.66   174.66  1.00e+01  1.92e+02  17.5*sigma
+   A 165  ARG  CD     
+   A 165  ARG  NE     
+   A 165  ARG  CZ     
+   A 165  ARG  NH1         0.00   174.13  -174.13  1.00e+01  1.91e+02  17.4*sigma
+   D 269  ARG  CD     
+   D 269  ARG  NE     
+   D 269  ARG  CZ     
+   D 269  ARG  NH1         0.00   172.97  -172.97  1.00e+01  1.91e+02  17.3*sigma
+   C 165  ARG  CD     
+   C 165  ARG  NE     
+   C 165  ARG  CZ     
+   C 165  ARG  NH1         0.00   171.98  -171.98  1.00e+01  1.91e+02  17.2*sigma
+   C 237  ARG  CD     
+   C 237  ARG  NE     
+   C 237  ARG  CZ     
+   C 237  ARG  NH1         0.00  -171.83   171.83  1.00e+01  1.91e+02  17.2*sigma
+   A 237  ARG  CD     
+   A 237  ARG  NE     
+   A 237  ARG  CZ     
+   A 237  ARG  NH1         0.00  -170.65   170.65  1.00e+01  1.91e+02  17.1*sigma
+   E 322  ARG  CD     
+   E 322  ARG  NE     
+   E 322  ARG  CZ     
+   E 322  ARG  NH1         0.00   169.59  -169.59  1.00e+01  1.90e+02  17.0*sigma
+   D 237  ARG  CD     
+   D 237  ARG  NE     
+   D 237  ARG  CZ     
+   D 237  ARG  NH1         0.00   169.47  -169.47  1.00e+01  1.90e+02  16.9*sigma
+   B 322  ARG  CD     
+   B 322  ARG  NE     
+   B 322  ARG  CZ     
+   B 322  ARG  NH1         0.00  -168.98   168.98  1.00e+01  1.90e+02  16.9*sigma
+   C 210  ARG  CD     
+   C 210  ARG  NE     
+   C 210  ARG  CZ     
+   C 210  ARG  NH1         0.00  -168.03   168.03  1.00e+01  1.90e+02  16.8*sigma
+   B 165  ARG  CD     
+   B 165  ARG  NE     
+   B 165  ARG  CZ     
+   B 165  ARG  NH1         0.00   163.90  -163.90  1.00e+01  1.88e+02  16.4*sigma
+   B 269  ARG  CD     
+   B 269  ARG  NE     
+   B 269  ARG  CZ     
+   B 269  ARG  NH1         0.00  -163.84   163.84  1.00e+01  1.88e+02  16.4*sigma
+   C 216  ARG  CD     
+   C 216  ARG  NE     
+   C 216  ARG  CZ     
+   C 216  ARG  NH1         0.00  -157.51   157.51  1.00e+01  1.85e+02  15.8*sigma
+   D 165  ARG  CD     
+   D 165  ARG  NE     
+   D 165  ARG  CZ     
+   D 165  ARG  NH1         0.00   155.72  -155.72  1.00e+01  1.84e+02  15.6*sigma
+   B 256  ASP  CA     
+   B 256  ASP  CB     
+   B 256  ASP  CG     
+   B 256  ASP  OD1         0.00  -159.26   129.26  2.00e+01  3.92e+01   6.5*sigma
+   B 263  ASP  CA     
+   B 263  ASP  CB     
+   B 263  ASP  CG     
+   B 263  ASP  OD1         0.00  -157.40   127.40  2.00e+01  3.86e+01   6.4*sigma
+   B 277  ASP  CA     
+   B 277  ASP  CB     
+   B 277  ASP  CG     
+   B 277  ASP  OD1         0.00  -162.71  -127.29  2.00e+01  3.85e+01   6.4*sigma
+   A  67  ILE  C      
+   A  67  ILE  N      
+   A  67  ILE  CA     
+   A  67  ILE  CB       -122.00  -137.28    15.28  2.50e+00  3.74e+01   6.1*sigma
+   D 152  GLU  CB     
+   D 152  GLU  CG     
+   D 152  GLU  CD     
+   D 152  GLU  OE1         0.00  -179.09   179.09  3.00e+01  2.13e+01   6.0*sigma
+   C 191  GLU  CB     
+   C 191  GLU  CG     
+   C 191  GLU  CD     
+   C 191  GLU  OE1         0.00   178.76  -178.76  3.00e+01  2.13e+01   6.0*sigma
+   B  25  GLU  CB     
+   B  25  GLU  CG     
+   B  25  GLU  CD     
+   B  25  GLU  OE1         0.00   176.37  -176.37  3.00e+01  2.13e+01   5.9*sigma
+   D  30  GLU  CB     
+   D  30  GLU  CG     
+   D  30  GLU  CD     
+   D  30  GLU  OE1         0.00  -175.30   175.30  3.00e+01  2.13e+01   5.8*sigma
+   B  75  ARG  C      
+   B  75  ARG  N      
+   B  75  ARG  CA     
+   B  75  ARG  CB       -122.60  -137.14    14.54  2.50e+00  3.38e+01   5.8*sigma
+   B 152  GLU  CB     
+   B 152  GLU  CG     
+   B 152  GLU  CD     
+   B 152  GLU  OE1         0.00   173.65  -173.65  3.00e+01  2.13e+01   5.8*sigma
+   D 175  ASP  CA     
+   D 175  ASP  CB     
+   D 175  ASP  CG     
+   D 175  ASP  OD1         0.00  -144.54   114.54  2.00e+01  3.40e+01   5.7*sigma
+   C 263  ASP  CA     
+   C 263  ASP  CB     
+   C 263  ASP  CG     
+   C 263  ASP  OD1         0.00  -144.26   114.26  2.00e+01  3.39e+01   5.7*sigma
+   B 189  ASP  CA     
+   B 189  ASP  CB     
+   B 189  ASP  CG     
+   B 189  ASP  OD1         0.00  -177.00  -113.00  2.00e+01  3.34e+01   5.7*sigma
+   B  26  ASP  CA     
+   B  26  ASP  CB     
+   B  26  ASP  CG     
+   B  26  ASP  OD1         0.00  -142.63   112.63  2.00e+01  3.32e+01   5.6*sigma
+   A 253  ASP  CA     
+   A 253  ASP  CB     
+   A 253  ASP  CG     
+   A 253  ASP  OD1         0.00  -177.70  -112.30  2.00e+01  3.31e+01   5.6*sigma
+   C 246  GLU  CB     
+   C 246  GLU  CG     
+   C 246  GLU  CD     
+   C 246  GLU  OE1         0.00  -166.55   166.55  3.00e+01  2.10e+01   5.6*sigma
+   A 116  ASP  CA     
+   A 116  ASP  CB     
+   A 116  ASP  CG     
+   A 116  ASP  OD1         0.00  -179.48  -110.52  2.00e+01  3.24e+01   5.5*sigma
+   D 238  ASP  CA     
+   D 238  ASP  CB     
+   D 238  ASP  CG     
+   D 238  ASP  OD1         0.00  -179.63  -110.37  2.00e+01  3.24e+01   5.5*sigma
+   A 238  ASP  CA     
+   A 238  ASP  CB     
+   A 238  ASP  CG     
+   A 238  ASP  OD1         0.00  -179.72  -110.28  2.00e+01  3.23e+01   5.5*sigma
+   C  43  LYS  C      
+   C  43  LYS  N      
+   C  43  LYS  CA     
+   C  43  LYS  CB       -122.60  -108.99   -13.61  2.50e+00  2.96e+01   5.4*sigma
+   E  55  ASP  CA     
+   E  55  ASP  CB     
+   E  55  ASP  CG     
+   E  55  ASP  OD1         0.00   178.71  -108.71  2.00e+01  3.17e+01   5.4*sigma
+   B  46  ASP  CA     
+   B  46  ASP  CB     
+   B  46  ASP  CG     
+   B  46  ASP  OD1         0.00  -138.50   108.50  2.00e+01  3.16e+01   5.4*sigma
+   B 246  GLU  CB     
+   B 246  GLU  CG     
+   B 246  GLU  CD     
+   B 246  GLU  OE1         0.00  -162.54   162.54  3.00e+01  2.08e+01   5.4*sigma
+   A 167  ASP  CA     
+   A 167  ASP  CB     
+   A 167  ASP  CG     
+   A 167  ASP  OD1         0.00  -137.29   107.29  2.00e+01  3.11e+01   5.4*sigma
+   C 190  ASP  CA     
+   C 190  ASP  CB     
+   C 190  ASP  CG     
+   C 190  ASP  OD1         0.00   177.20  -107.20  2.00e+01  3.11e+01   5.4*sigma
+   C 193  ASP  CA     
+   C 193  ASP  CB     
+   C 193  ASP  CG     
+   C 193  ASP  OD1         0.00   176.49  -106.49  2.00e+01  3.08e+01   5.3*sigma
+   E 190  ASP  CA     
+   E 190  ASP  CB     
+   E 190  ASP  CG     
+   E 190  ASP  OD1         0.00   176.15  -106.15  2.00e+01  3.07e+01   5.3*sigma
+   A 190  ASP  CA     
+   A 190  ASP  CB     
+   A 190  ASP  CG     
+   A 190  ASP  OD1         0.00   175.88  -105.88  2.00e+01  3.06e+01   5.3*sigma
+   D 145  ASP  CA     
+   D 145  ASP  CB     
+   D 145  ASP  CG     
+   D 145  ASP  OD1         0.00  -133.73   103.73  2.00e+01  2.97e+01   5.2*sigma
+   A  67  ILE  N      
+   A  67  ILE  C      
+   A  67  ILE  CA     
+   A  67  ILE  CB        123.40   136.14   -12.74  2.50e+00  2.60e+01   5.1*sigma
+   D 270  ASP  CA     
+   D 270  ASP  CB     
+   D 270  ASP  CG     
+   D 270  ASP  OD1         0.00   171.32  -101.32  2.00e+01  2.87e+01   5.1*sigma
+   D 179  ASP  CA     
+   D 179  ASP  CB     
+   D 179  ASP  CG     
+   D 179  ASP  OD1         0.00   170.12  -100.12  2.00e+01  2.82e+01   5.0*sigma
+   C 148  ASP  CA     
+   C 148  ASP  CB     
+   C 148  ASP  CG     
+   C 148  ASP  OD1         0.00   169.20   -99.20  2.00e+01  2.78e+01   5.0*sigma
+   A  46  ASP  CA     
+   A  46  ASP  CB     
+   A  46  ASP  CG     
+   A  46  ASP  OD1         0.00   168.87   -98.87  2.00e+01  2.77e+01   4.9*sigma
+   D 190  ASP  CA     
+   D 190  ASP  CB     
+   D 190  ASP  CG     
+   D 190  ASP  OD1         0.00   168.55   -98.55  2.00e+01  2.76e+01   4.9*sigma
+   A 316  GLU  N      
+   A 316  GLU  C      
+   A 316  GLU  CA     
+   A 316  GLU  CB        122.80   135.08   -12.28  2.50e+00  2.41e+01   4.9*sigma
+   E 253  ASP  CA     
+   E 253  ASP  CB     
+   E 253  ASP  CG     
+   E 253  ASP  OD1         0.00   168.12   -98.12  2.00e+01  2.74e+01   4.9*sigma
+   B 202  ARG  C      
+   B 202  ARG  N      
+   B 202  ARG  CA     
+   B 202  ARG  CB       -122.60  -134.86    12.26  2.50e+00  2.41e+01   4.9*sigma
+   E 145  ASP  CA     
+   E 145  ASP  CB     
+   E 145  ASP  CG     
+   E 145  ASP  OD1         0.00  -125.34    95.34  2.00e+01  2.62e+01   4.8*sigma
+   E 206  GLU  CB     
+   E 206  GLU  CG     
+   E 206  GLU  CD     
+   E 206  GLU  OE1         0.00  -142.45   142.45  3.00e+01  1.91e+01   4.7*sigma
+   B 148  ASP  CA     
+   B 148  ASP  CB     
+   B 148  ASP  CG     
+   B 148  ASP  OD1         0.00   164.93   -94.93  2.00e+01  2.61e+01   4.7*sigma
+   D 240  PRO  N      
+   D 240  PRO  C      
+   D 240  PRO  CA     
+   D 240  PRO  CB        115.10   126.90   -11.80  2.50e+00  2.23e+01   4.7*sigma
+   D 202  ARG  C      
+   D 202  ARG  N      
+   D 202  ARG  CA     
+   D 202  ARG  CB       -122.60  -134.38    11.78  2.50e+00  2.22e+01   4.7*sigma
+   E 193  ASP  CA     
+   E 193  ASP  CB     
+   E 193  ASP  CG     
+   E 193  ASP  OD1         0.00   163.90   -93.90  2.00e+01  2.56e+01   4.7*sigma
+   C 179  ASP  CA     
+   C 179  ASP  CB     
+   C 179  ASP  CG     
+   C 179  ASP  OD1         0.00   163.28   -93.28  2.00e+01  2.54e+01   4.7*sigma
+   C 123  GLU  CB     
+   C 123  GLU  CG     
+   C 123  GLU  CD     
+   C 123  GLU  OE1         0.00   139.51  -139.51  3.00e+01  1.88e+01   4.7*sigma
+   C 116  ASP  CA     
+   C 116  ASP  CB     
+   C 116  ASP  CG     
+   C 116  ASP  OD1         0.00   162.73   -92.73  2.00e+01  2.51e+01   4.6*sigma
+   D  41  GLU  CB     
+   D  41  GLU  CG     
+   D  41  GLU  CD     
+   D  41  GLU  OE1         0.00   138.42  -138.42  3.00e+01  1.86e+01   4.6*sigma
+   B 196  GLU  CB     
+   B 196  GLU  CG     
+   B 196  GLU  CD     
+   B 196  GLU  OE1         0.00   138.16  -138.16  3.00e+01  1.86e+01   4.6*sigma
+   D 123  GLU  CB     
+   D 123  GLU  CG     
+   D 123  GLU  CD     
+   D 123  GLU  OE1         0.00   137.62  -137.62  3.00e+01  1.85e+01   4.6*sigma
+   B 103  GLU  CB     
+   B 103  GLU  CG     
+   B 103  GLU  CD     
+   B 103  GLU  OE1         0.00   136.65  -136.65  3.00e+01  1.84e+01   4.6*sigma
+   C 277  ASP  CA     
+   C 277  ASP  CB     
+   C 277  ASP  CG     
+   C 277  ASP  OD1         0.00   161.04   -91.04  2.00e+01  2.44e+01   4.6*sigma
+   D 116  ASP  CA     
+   D 116  ASP  CB     
+   D 116  ASP  CG     
+   D 116  ASP  OD1         0.00   161.02   -91.02  2.00e+01  2.44e+01   4.6*sigma
+   A 230  GLU  CB     
+   A 230  GLU  CG     
+   A 230  GLU  CD     
+   A 230  GLU  OE1         0.00   135.85  -135.85  3.00e+01  1.83e+01   4.5*sigma
+   B 175  ASP  CA     
+   B 175  ASP  CB     
+   B 175  ASP  CG     
+   B 175  ASP  OD1         0.00  -120.36    90.36  2.00e+01  2.42e+01   4.5*sigma
+   D 148  ASP  CA     
+   D 148  ASP  CB     
+   D 148  ASP  CG     
+   D 148  ASP  OD1         0.00   159.98   -89.98  2.00e+01  2.40e+01   4.5*sigma
+   D  48  GLU  CB     
+   D  48  GLU  CG     
+   D  48  GLU  CD     
+   D  48  GLU  OE1         0.00   134.74  -134.74  3.00e+01  1.82e+01   4.5*sigma
+   B 316  GLU  C      
+   B 316  GLU  N      
+   B 316  GLU  CA     
+   B 316  GLU  CB       -122.60  -133.78    11.18  2.50e+00  2.00e+01   4.5*sigma
+   C 270  ASP  CA     
+   C 270  ASP  CB     
+   C 270  ASP  CG     
+   C 270  ASP  OD1         0.00   159.28   -89.28  2.00e+01  2.37e+01   4.5*sigma
+   D  43  LYS  C      
+   D  43  LYS  N      
+   D  43  LYS  CA     
+   D  43  LYS  CB       -122.60  -111.46   -11.14  2.50e+00  1.99e+01   4.5*sigma
+   A 191  GLU  CB     
+   A 191  GLU  CG     
+   A 191  GLU  CD     
+   A 191  GLU  OE1         0.00  -133.32   133.32  3.00e+01  1.80e+01   4.4*sigma
+   A 220  GLU  CB     
+   A 220  GLU  CG     
+   A 220  GLU  CD     
+   A 220  GLU  OE1         0.00   132.76  -132.76  3.00e+01  1.79e+01   4.4*sigma
+   B  48  GLU  CB     
+   B  48  GLU  CG     
+   B  48  GLU  CD     
+   B  48  GLU  OE1         0.00   132.75  -132.75  3.00e+01  1.79e+01   4.4*sigma
+   C 175  ASP  CA     
+   C 175  ASP  CB     
+   C 175  ASP  CG     
+   C 175  ASP  OD1         0.00  -118.36    88.36  2.00e+01  2.33e+01   4.4*sigma
+   D 220  GLU  CB     
+   D 220  GLU  CG     
+   D 220  GLU  CD     
+   D 220  GLU  OE1         0.00   131.58  -131.58  3.00e+01  1.77e+01   4.4*sigma
+   C 244  GLU  CA     
+   C 244  GLU  C      
+   C 245  LYS  N      
+   C 245  LYS  CA        180.00  -158.10   -21.90  5.00e+00  1.92e+01   4.4*sigma
+   E 123  GLU  CB     
+   E 123  GLU  CG     
+   E 123  GLU  CD     
+   E 123  GLU  OE1         0.00   131.32  -131.32  3.00e+01  1.77e+01   4.4*sigma
+   D 197  GLU  CB     
+   D 197  GLU  CG     
+   D 197  GLU  CD     
+   D 197  GLU  OE1         0.00   129.96  -129.96  3.00e+01  1.75e+01   4.3*sigma
+   B 202  ARG  N      
+   B 202  ARG  C      
+   B 202  ARG  CA     
+   B 202  ARG  CB        122.80   133.62   -10.82  2.50e+00  1.87e+01   4.3*sigma
+   A 289  GLU  CB     
+   A 289  GLU  CG     
+   A 289  GLU  CD     
+   A 289  GLU  OE1         0.00  -129.82   129.82  3.00e+01  1.75e+01   4.3*sigma
+   E  51  LEU  C      
+   E  51  LEU  N      
+   E  51  LEU  CA     
+   E  51  LEU  CB       -122.60  -133.36    10.76  2.50e+00  1.85e+01   4.3*sigma
+   A 103  GLU  CB     
+   A 103  GLU  CG     
+   A 103  GLU  CD     
+   A 103  GLU  OE1         0.00  -129.10   129.10  3.00e+01  1.74e+01   4.3*sigma
+   D 121  GLU  N      
+   D 121  GLU  C      
+   D 121  GLU  CA     
+   D 121  GLU  CB        122.80   133.54   -10.74  2.50e+00  1.84e+01   4.3*sigma
+   D  88  GLU  CB     
+   D  88  GLU  CG     
+   D  88  GLU  CD     
+   D  88  GLU  OE1         0.00   127.50  -127.50  3.00e+01  1.72e+01   4.3*sigma
+   A 256  ASP  CA     
+   A 256  ASP  CB     
+   A 256  ASP  CG     
+   A 256  ASP  OD1         0.00   154.87   -84.87  2.00e+01  2.19e+01   4.2*sigma
+   C 197  GLU  CB     
+   C 197  GLU  CG     
+   C 197  GLU  CD     
+   C 197  GLU  OE1         0.00  -126.22   126.22  3.00e+01  1.70e+01   4.2*sigma
+   D 244  GLU  CA     
+   D 244  GLU  C      
+   D 245  LYS  N      
+   D 245  LYS  CA        180.00  -159.05   -20.95  5.00e+00  1.76e+01   4.2*sigma
+   A  30  GLU  CB     
+   A  30  GLU  CG     
+   A  30  GLU  CD     
+   A  30  GLU  OE1         0.00  -125.35   125.35  3.00e+01  1.68e+01   4.2*sigma
+   B 240  PRO  N      
+   B 240  PRO  C      
+   B 240  PRO  CA     
+   B 240  PRO  CB        115.10   125.54   -10.44  2.50e+00  1.74e+01   4.2*sigma
+   B 244  GLU  CA     
+   B 244  GLU  C      
+   B 245  LYS  N      
+   B 245  LYS  CA        180.00  -159.15   -20.85  5.00e+00  1.74e+01   4.2*sigma
+   B 239  VAL  N      
+   B 239  VAL  C      
+   B 239  VAL  CA     
+   B 239  VAL  CB        123.40   133.81   -10.41  2.50e+00  1.73e+01   4.2*sigma
+   C 202  ARG  C      
+   C 202  ARG  N      
+   C 202  ARG  CA     
+   C 202  ARG  CB       -122.60  -132.95    10.35  2.50e+00  1.71e+01   4.1*sigma
+   B 123  GLU  CB     
+   B 123  GLU  CG     
+   B 123  GLU  CD     
+   B 123  GLU  OE1         0.00  -123.96   123.96  3.00e+01  1.66e+01   4.1*sigma
+   A 316  GLU  C      
+   A 316  GLU  N      
+   A 316  GLU  CA     
+   A 316  GLU  CB       -122.60  -132.93    10.33  2.50e+00  1.71e+01   4.1*sigma
+   B 204  GLU  CB     
+   B 204  GLU  CG     
+   B 204  GLU  CD     
+   B 204  GLU  OE1         0.00   123.91  -123.91  3.00e+01  1.66e+01   4.1*sigma
+   D  78  GLU  CB     
+   D  78  GLU  CG     
+   D  78  GLU  CD     
+   D  78  GLU  OE1         0.00   123.74  -123.74  3.00e+01  1.66e+01   4.1*sigma
+   D 141  GLU  CB     
+   D 141  GLU  CG     
+   D 141  GLU  CD     
+   D 141  GLU  OE1         0.00  -123.65   123.65  3.00e+01  1.66e+01   4.1*sigma
+   A 346  LYS  C      
+   A 346  LYS  N      
+   A 346  LYS  CA     
+   A 346  LYS  CB       -122.60  -132.90    10.30  2.50e+00  1.70e+01   4.1*sigma
+   D 240  PRO  C      
+   D 240  PRO  N      
+   D 240  PRO  CA     
+   D 240  PRO  CB       -120.70  -130.95    10.25  2.50e+00  1.68e+01   4.1*sigma
+   D 125  GLU  CB     
+   D 125  GLU  CG     
+   D 125  GLU  CD     
+   D 125  GLU  OE1         0.00  -122.96   122.96  3.00e+01  1.65e+01   4.1*sigma
+   D 246  GLU  N      
+   D 246  GLU  C      
+   D 246  GLU  CA     
+   D 246  GLU  CB        122.80   112.59    10.21  2.50e+00  1.67e+01   4.1*sigma
+   A 175  ASP  CA     
+   A 175  ASP  CB     
+   A 175  ASP  CG     
+   A 175  ASP  OD1         0.00  -111.60    81.60  2.00e+01  2.05e+01   4.1*sigma
+   A 152  GLU  CB     
+   A 152  GLU  CG     
+   A 152  GLU  CD     
+   A 152  GLU  OE1         0.00   122.31  -122.31  3.00e+01  1.64e+01   4.1*sigma
+   E 133  LYS  C      
+   E 133  LYS  N      
+   E 133  LYS  CA     
+   E 133  LYS  CB       -122.60  -132.79    10.19  2.50e+00  1.66e+01   4.1*sigma
+   D 202  ARG  N      
+   D 202  ARG  C      
+   D 202  ARG  CA     
+   D 202  ARG  CB        122.80   132.94   -10.14  2.50e+00  1.65e+01   4.1*sigma
+   D 198  GLU  CB     
+   D 198  GLU  CG     
+   D 198  GLU  CD     
+   D 198  GLU  OE1         0.00  -121.54   121.54  3.00e+01  1.62e+01   4.1*sigma
+   C 186  GLU  CB     
+   C 186  GLU  CG     
+   C 186  GLU  CD     
+   C 186  GLU  OE1         0.00  -121.22   121.22  3.00e+01  1.62e+01   4.0*sigma
+   D 118  ASN  CA     
+   D 118  ASN  C      
+   D 119  LEU  N      
+   D 119  LEU  CA        180.00   159.81    20.19  5.00e+00  1.63e+01   4.0*sigma
+   E  30  GLU  CB     
+   E  30  GLU  CG     
+   E  30  GLU  CD     
+   E  30  GLU  OE1         0.00  -121.11   121.11  3.00e+01  1.62e+01   4.0*sigma
+   C  78  GLU  CB     
+   C  78  GLU  CG     
+   C  78  GLU  CD     
+   C  78  GLU  OE1         0.00  -120.67   120.67  3.00e+01  1.61e+01   4.0*sigma
+
+  Min. delta:    0.001
+  Max. delta:  179.161
+  Mean delta:   20.900
+
+                       ----------Chiral volumes----------                      
+
+  All restrained atoms within 4.0 sigma of ideal values.
+
+  Min. delta:    0.000
+  Max. delta:    0.589
+  Mean delta:    0.139
+
+                       ----------Planar groups----------                       
+
+  atoms                 rms_deltas   delta_max    residual   deviation
+   E 151  ARG  CD     
+   E 151  ARG  NE     
+   E 151  ARG  CZ     
+   E 151  ARG  NH1    
+   E 151  ARG  NH2           0.197       0.313      483.49  15.6*sigma
+   B 151  ARG  CD     
+   B 151  ARG  NE     
+   B 151  ARG  CZ     
+   B 151  ARG  NH1    
+   B 151  ARG  NH2           0.133       0.208      221.47  10.4*sigma
+   C 216  ARG  CD     
+   C 216  ARG  NE     
+   C 216  ARG  CZ     
+   C 216  ARG  NH1    
+   C 216  ARG  NH2           0.109       0.174      147.82   8.7*sigma
+   A 311  TYR  CB     
+   A 311  TYR  CG     
+   A 311  TYR  CD1    
+   A 311  TYR  CD2    
+   A 311  TYR  CE1    
+   A 311  TYR  CE2    
+   A 311  TYR  CZ     
+   A 311  TYR  OH            0.087       0.164      152.83   8.2*sigma
+   D 162  ARG  CD     
+   D 162  ARG  NE     
+   D 162  ARG  CZ     
+   D 162  ARG  NH1    
+   D 162  ARG  NH2           0.096       0.158      114.88   7.9*sigma
+   D 229  ARG  CD     
+   D 229  ARG  NE     
+   D 229  ARG  CZ     
+   D 229  ARG  NH1    
+   D 229  ARG  NH2           0.099       0.158      123.61   7.9*sigma
+   B 162  ARG  CD     
+   B 162  ARG  NE     
+   B 162  ARG  CZ     
+   B 162  ARG  NH1    
+   B 162  ARG  NH2           0.096       0.154      114.43   7.7*sigma
+   C 222  ARG  CD     
+   C 222  ARG  NE     
+   C 222  ARG  CZ     
+   C 222  ARG  NH1    
+   C 222  ARG  NH2           0.099       0.151      121.72   7.5*sigma
+   C 158  ARG  CD     
+   C 158  ARG  NE     
+   C 158  ARG  CZ     
+   C 158  ARG  NH1    
+   C 158  ARG  NH2           0.096       0.147      114.02   7.4*sigma
+   D 151  ARG  CD     
+   D 151  ARG  NE     
+   D 151  ARG  CZ     
+   D 151  ARG  NH1    
+   D 151  ARG  NH2           0.086       0.141       91.85   7.0*sigma
+   D 165  ARG  CD     
+   D 165  ARG  NE     
+   D 165  ARG  CZ     
+   D 165  ARG  NH1    
+   D 165  ARG  NH2           0.118       0.136      174.20   6.8*sigma
+   B 165  ARG  CD     
+   B 165  ARG  NE     
+   B 165  ARG  CZ     
+   B 165  ARG  NH1    
+   B 165  ARG  NH2           0.083       0.131       86.29   6.5*sigma
+   C 171  TYR  CB     
+   C 171  TYR  CG     
+   C 171  TYR  CD1    
+   C 171  TYR  CD2    
+   C 171  TYR  CE1    
+   C 171  TYR  CE2    
+   C 171  TYR  CZ     
+   C 171  TYR  OH            0.075       0.130      111.14   6.5*sigma
+   E  54  ARG  CD     
+   E  54  ARG  NE     
+   E  54  ARG  CZ     
+   E  54  ARG  NH1    
+   E  54  ARG  NH2           0.077       0.121       74.64   6.1*sigma
+   E  69  ARG  CD     
+   E  69  ARG  NE     
+   E  69  ARG  CZ     
+   E  69  ARG  NH1    
+   E  69  ARG  NH2           0.075       0.120       70.70   6.0*sigma
+   D 323  TRP  CB     
+   D 323  TRP  CG     
+   D 323  TRP  CD1    
+   D 323  TRP  CD2    
+   D 323  TRP  NE1    
+   D 323  TRP  CE2    
+   D 323  TRP  CE3    
+   D 323  TRP  CZ2    
+   D 323  TRP  CZ3    
+   D 323  TRP  CH2           0.057       0.118       80.41   5.9*sigma
+   B 202  ARG  CD     
+   B 202  ARG  NE     
+   B 202  ARG  CZ     
+   B 202  ARG  NH1    
+   B 202  ARG  NH2           0.075       0.117       69.93   5.9*sigma
+   B 171  TYR  CB     
+   B 171  TYR  CG     
+   B 171  TYR  CD1    
+   B 171  TYR  CD2    
+   B 171  TYR  CE1    
+   B 171  TYR  CE2    
+   B 171  TYR  CZ     
+   B 171  TYR  OH            0.058       0.110       67.28   5.5*sigma
+   D 226  TRP  CB     
+   D 226  TRP  CG     
+   D 226  TRP  CD1    
+   D 226  TRP  CD2    
+   D 226  TRP  NE1    
+   D 226  TRP  CE2    
+   D 226  TRP  CE3    
+   D 226  TRP  CZ2    
+   D 226  TRP  CZ3    
+   D 226  TRP  CH2           0.050       0.110       63.36   5.5*sigma
+   E 327  TYR  CB     
+   E 327  TYR  CG     
+   E 327  TYR  CD1    
+   E 327  TYR  CD2    
+   E 327  TYR  CE1    
+   E 327  TYR  CE2    
+   E 327  TYR  CZ     
+   E 327  TYR  OH            0.056       0.110       63.24   5.5*sigma
+   E 344  TYR  CB     
+   E 344  TYR  CG     
+   E 344  TYR  CD1    
+   E 344  TYR  CD2    
+   E 344  TYR  CE1    
+   E 344  TYR  CE2    
+   E 344  TYR  CZ     
+   E 344  TYR  OH            0.055       0.107       60.06   5.4*sigma
+   C 120  HIS  CB     
+   C 120  HIS  CG     
+   C 120  HIS  ND1    
+   C 120  HIS  CD2    
+   C 120  HIS  CE1    
+   C 120  HIS  NE2           0.062       0.100       56.86   5.0*sigma
+   E 171  TYR  CB     
+   E 171  TYR  CG     
+   E 171  TYR  CD1    
+   E 171  TYR  CD2    
+   E 171  TYR  CE1    
+   E 171  TYR  CE2    
+   E 171  TYR  CZ     
+   E 171  TYR  OH            0.049       0.097       48.79   4.9*sigma
+   B  34  TYR  CB     
+   B  34  TYR  CG     
+   B  34  TYR  CD1    
+   B  34  TYR  CD2    
+   B  34  TYR  CE1    
+   B  34  TYR  CE2    
+   B  34  TYR  CZ     
+   B  34  TYR  OH            0.048       0.096       46.67   4.8*sigma
+   E  19  TYR  CB     
+   E  19  TYR  CG     
+   E  19  TYR  CD1    
+   E  19  TYR  CD2    
+   E  19  TYR  CE1    
+   E  19  TYR  CE2    
+   E  19  TYR  CZ     
+   E  19  TYR  OH            0.053       0.096       56.15   4.8*sigma
+   C 155  ARG  CD     
+   C 155  ARG  NE     
+   C 155  ARG  CZ     
+   C 155  ARG  NH1    
+   C 155  ARG  NH2           0.083       0.095       86.76   4.8*sigma
+   B 301  PHE  CB     
+   B 301  PHE  CG     
+   B 301  PHE  CD1    
+   B 301  PHE  CD2    
+   B 301  PHE  CE1    
+   B 301  PHE  CE2    
+   B 301  PHE  CZ            0.058       0.093       57.90   4.7*sigma
+   A 250  TYR  CB     
+   A 250  TYR  CG     
+   A 250  TYR  CD1    
+   A 250  TYR  CD2    
+   A 250  TYR  CE1    
+   A 250  TYR  CE2    
+   A 250  TYR  CZ     
+   A 250  TYR  OH            0.054       0.093       58.54   4.7*sigma
+   D 255  TYR  CB     
+   D 255  TYR  CG     
+   D 255  TYR  CD1    
+   D 255  TYR  CD2    
+   D 255  TYR  CE1    
+   D 255  TYR  CE2    
+   D 255  TYR  CZ     
+   D 255  TYR  OH            0.052       0.092       54.40   4.6*sigma
+   B 269  ARG  CD     
+   B 269  ARG  NE     
+   B 269  ARG  CZ     
+   B 269  ARG  NH1    
+   B 269  ARG  NH2           0.079       0.092       78.93   4.6*sigma
+   A 153  ARG  CD     
+   A 153  ARG  NE     
+   A 153  ARG  CZ     
+   A 153  ARG  NH1    
+   A 153  ARG  NH2           0.079       0.091       78.42   4.6*sigma
+   D 118  ASN  CA     
+   D 118  ASN  C      
+   D 118  ASN  O      
+   D 119  LEU  N             0.053       0.091       27.90   4.6*sigma
+   B 345  PHE  CB     
+   B 345  PHE  CG     
+   B 345  PHE  CD1    
+   B 345  PHE  CD2    
+   B 345  PHE  CE1    
+   B 345  PHE  CE2    
+   B 345  PHE  CZ            0.056       0.091       55.80   4.6*sigma
+   D 120  HIS  CB     
+   D 120  HIS  CG     
+   D 120  HIS  ND1    
+   D 120  HIS  CD2    
+   D 120  HIS  CE1    
+   D 120  HIS  NE2           0.055       0.089       44.82   4.4*sigma
+   C 105  TYR  CB     
+   C 105  TYR  CG     
+   C 105  TYR  CD1    
+   C 105  TYR  CD2    
+   C 105  TYR  CE1    
+   C 105  TYR  CE2    
+   C 105  TYR  CZ     
+   C 105  TYR  OH            0.049       0.087       47.25   4.4*sigma
+   C 210  ARG  CD     
+   C 210  ARG  NE     
+   C 210  ARG  CZ     
+   C 210  ARG  NH1    
+   C 210  ARG  NH2           0.058       0.087       42.34   4.3*sigma
+   B 322  ARG  CD     
+   B 322  ARG  NE     
+   B 322  ARG  CZ     
+   B 322  ARG  NH1    
+   B 322  ARG  NH2           0.054       0.087       36.22   4.3*sigma
+   D 153  ARG  CD     
+   D 153  ARG  NE     
+   D 153  ARG  CZ     
+   D 153  ARG  NH1    
+   D 153  ARG  NH2           0.073       0.085       66.74   4.2*sigma
+   A 107  PHE  CB     
+   A 107  PHE  CG     
+   A 107  PHE  CD1    
+   A 107  PHE  CD2    
+   A 107  PHE  CE1    
+   A 107  PHE  CE2    
+   A 107  PHE  CZ            0.052       0.085       46.82   4.2*sigma
+   D 202  ARG  CD     
+   D 202  ARG  NE     
+   D 202  ARG  CZ     
+   D 202  ARG  NH1    
+   D 202  ARG  NH2           0.054       0.084       36.25   4.2*sigma
+   E 226  TRP  CB     
+   E 226  TRP  CG     
+   E 226  TRP  CD1    
+   E 226  TRP  CD2    
+   E 226  TRP  NE1    
+   E 226  TRP  CE2    
+   E 226  TRP  CE3    
+   E 226  TRP  CZ2    
+   E 226  TRP  CZ3    
+   E 226  TRP  CH2           0.040       0.084       40.24   4.2*sigma
+
+  Min. delta:    0.000
+  Max. delta:    0.197
+  Mean delta:    0.020
+
+============================ Molprobity validation ============================
+
+  
+  geometry restraints library: gEOsTD + mONOMER lIBRARY
+  deviations from ideal values.
+    bond      :  0.021   0.087  14155
+    angle     :  2.339  17.797  19190
+    chirality :  0.139   0.589   2190
+    planarity :  0.020   0.197   2410
+    dihedral  : 20.900 179.161   8540
+    min nonbonded distance : 2.390 
+    
+  molprobity statistics.
+    all-atom clashscore : 0.00
+    ramachandran plot:
+      outliers : 1.70  %
+      allowed  : 5.29  %
+      favored  : 93.01 %
+    rotamer outliers : 3.02 %
+    cbeta deviations : 0
+    peptide plane:
+      cis-proline     : 0.0
+      cis-general     : 0.0
+      twisted proline : 0.0
+      twisted general : 0.0
+
+                     ----------Asn/Gln/His flips----------                     
+
+  No backwards Asn/Gln/His sidechains found.
+
+=================================== Summary ===================================
+
+  Ramachandran outliers =   1.70 %
+                favored =  93.01 %
+  Rotamer outliers      =   3.02 %
+  C-beta deviations     =    13
+  Clashscore            =   0.00
+  RMS(bonds)            =   0.0206
+  RMS(angles)           =   2.34
+  MolProbity score      =   1.31
